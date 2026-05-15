@@ -1,0 +1,834 @@
+{
+  "updated_at": "2026-05-15T22:03:15+09:00",
+  "date": "2026-05-15",
+  "categories": {
+    "trending": {
+      "label": "🔥 인기 쇼츠",
+      "query": "쇼츠 트렌드 #shorts",
+      "items": [
+        {
+          "id": "6C_xFde9_lc",
+          "url": "https://www.youtube.com/shorts/6C_xFde9_lc",
+          "title": "How to make donuts diffrently - foodiebeats tiktok trend - fun for kids - short video",
+          "channel": "foodiebeats",
+          "channel_id": "UCUWNgAYGX_AcZWahMHShx5g",
+          "thumbnail": "https://i.ytimg.com/vi/6C_xFde9_lc/maxresdefault.jpg",
+          "published_at": "2022-11-08T15:01:59Z",
+          "view_count": 410814216,
+          "duration_sec": 9
+        },
+        {
+          "id": "1iSo0oBnPrA",
+          "url": "https://www.youtube.com/shorts/1iSo0oBnPrA",
+          "title": "THE LAST ONE😱🤣😭 poorrrr Robert…🤣 #shorts #trend #family",
+          "channel": "The Band McMillan",
+          "channel_id": "UCrK3QhysEdDe96_e2ewIOuA",
+          "thumbnail": "https://i.ytimg.com/vi/1iSo0oBnPrA/maxresdefault.jpg",
+          "published_at": "2022-04-10T20:35:56Z",
+          "view_count": 9482227,
+          "duration_sec": 60
+        },
+        {
+          "id": "JRJtg4-sDYQ",
+          "url": "https://www.youtube.com/shorts/JRJtg4-sDYQ",
+          "title": "조회수 2억 영상의 비밀ㅋㅋ      #shorts #쇼츠 #수영",
+          "channel": "월드닷컴",
+          "channel_id": "UCLtKSD7xfWgnuiYYDApR3jQ",
+          "thumbnail": "https://i.ytimg.com/vi/JRJtg4-sDYQ/maxresdefault.jpg",
+          "published_at": "2025-07-31T11:45:08Z",
+          "view_count": 13631462,
+          "duration_sec": 15
+        },
+        {
+          "id": "2YyEO78Dm3Q",
+          "url": "https://www.youtube.com/shorts/2YyEO78Dm3Q",
+          "title": "#한국바이럴 #웃긴영상 #코미디 #꿀잼 #유튜브쇼츠 #쇼츠 #바이럴 #트렌드 #재미 #웃음",
+          "channel": "Rd Nahiyan islam 2.0",
+          "channel_id": "UCADxu2fFM-etDUwimZDplCg",
+          "thumbnail": "https://i.ytimg.com/vi/2YyEO78Dm3Q/maxresdefault.jpg",
+          "published_at": "2025-12-20T20:48:22Z",
+          "view_count": 12042768,
+          "duration_sec": 13
+        },
+        {
+          "id": "ZEBo4Xlj6Gs",
+          "url": "https://www.youtube.com/shorts/ZEBo4Xlj6Gs",
+          "title": "#한국바이럴 #웃긴영상 #코미디 #꿀잼 #유튜브쇼츠 #쇼츠 #바이럴 #트렌드 #재미 #웃음#웃긴영상#개그#코미디#웃음#재미#꿀잼#웃겨요#유튜브#유튜브쇼츠#쇼츠#숏츠#영상추천",
+          "channel": "Village Entertainment 2.0.2",
+          "channel_id": "UCa74Uywoar4a79HNVKl3JBg",
+          "thumbnail": "https://i.ytimg.com/vi/ZEBo4Xlj6Gs/maxresdefault.jpg",
+          "published_at": "2026-03-30T11:52:04Z",
+          "view_count": 10099520,
+          "duration_sec": 17
+        },
+        {
+          "id": "-Ngn2xLpMMk",
+          "url": "https://www.youtube.com/shorts/-Ngn2xLpMMk",
+          "title": "#한국바이럴 #웃긴영상 #코미디 #꿀잼 #유튜브쇼츠 #쇼츠 #바이럴 #트렌드 #재미 #웃음",
+          "channel": "Village Entertainment 2.0.2",
+          "channel_id": "UCa74Uywoar4a79HNVKl3JBg",
+          "thumbnail": "https://i.ytimg.com/vi/-Ngn2xLpMMk/maxresdefault.jpg",
+          "published_at": "2026-04-10T02:40:39Z",
+          "view_count": 5463555,
+          "duration_sec": 17
+        },
+        {
+          "id": "XEsNOQrcv9I",
+          "url": "https://www.youtube.com/shorts/XEsNOQrcv9I",
+          "title": "쇼츠 특",
+          "channel": "자체공감",
+          "channel_id": "UCvgDqf0HGK58p3pRmCGOWRg",
+          "thumbnail": "https://i.ytimg.com/vi/XEsNOQrcv9I/maxresdefault.jpg",
+          "published_at": "2023-04-30T06:00:12Z",
+          "view_count": 1506136,
+          "duration_sec": 33
+        },
+        {
+          "id": "0lZGsHDrWPI",
+          "url": "https://www.youtube.com/shorts/0lZGsHDrWPI",
+          "title": "#한국바이럴 #웃긴영상 #코미디 #꿀잼 #유튜브쇼츠 #쇼츠 #바이럴 #트렌드 #재미 #웃음",
+          "channel": "Village Entertainment 2.0.2",
+          "channel_id": "UCa74Uywoar4a79HNVKl3JBg",
+          "thumbnail": "https://i.ytimg.com/vi/0lZGsHDrWPI/maxresdefault.jpg",
+          "published_at": "2026-03-29T02:32:38Z",
+          "view_count": 3497151,
+          "duration_sec": 21
+        },
+        {
+          "id": "qYAl9V5Ms4w",
+          "url": "https://www.youtube.com/shorts/qYAl9V5Ms4w",
+          "title": "#한국바이럴 #웃긴영상 #코미디 #꿀잼 #유튜브쇼츠 #쇼츠 #바이럴 #트렌드 #재미 #웃음",
+          "channel": "Village Entertainment 2.0.2",
+          "channel_id": "UCa74Uywoar4a79HNVKl3JBg",
+          "thumbnail": "https://i.ytimg.com/vi/qYAl9V5Ms4w/maxresdefault.jpg",
+          "published_at": "2026-03-31T11:27:20Z",
+          "view_count": 2471585,
+          "duration_sec": 45
+        },
+        {
+          "id": "eQOKfpj4uUw",
+          "url": "https://www.youtube.com/shorts/eQOKfpj4uUw",
+          "title": "#한국바이럴 #웃긴영상 #코미디 #꿀잼 #유튜브쇼츠 #쇼츠 #바이럴 #트렌드 #재미 #웃음",
+          "channel": "Village Entertainment 2.0.2",
+          "channel_id": "UCa74Uywoar4a79HNVKl3JBg",
+          "thumbnail": "https://i.ytimg.com/vi/eQOKfpj4uUw/maxresdefault.jpg",
+          "published_at": "2026-04-30T02:53:52Z",
+          "view_count": 2530861,
+          "duration_sec": 17
+        },
+        {
+          "id": "J7nqukh1FZU",
+          "url": "https://www.youtube.com/shorts/J7nqukh1FZU",
+          "title": "#한국바이럴 #웃긴영상 #코미디 #꿀잼 #유튜브쇼츠 #쇼츠 #바이럴 #트렌드 #재미 #웃음",
+          "channel": "Village Entertainment 2.0.2",
+          "channel_id": "UCa74Uywoar4a79HNVKl3JBg",
+          "thumbnail": "https://i.ytimg.com/vi/J7nqukh1FZU/maxresdefault.jpg",
+          "published_at": "2026-03-27T12:17:34Z",
+          "view_count": 1926217,
+          "duration_sec": 19
+        },
+        {
+          "id": "B8xb3xUTRWw",
+          "url": "https://www.youtube.com/shorts/B8xb3xUTRWw",
+          "title": "র#한국바이럴 #웃긴영상 #코미디 #꿀잼 #유튜브쇼츠 #쇼츠 #바이럴 #트렌드 #재미 #웃음",
+          "channel": "Rd Nahiyan islam 2.0",
+          "channel_id": "UCADxu2fFM-etDUwimZDplCg",
+          "thumbnail": "https://i.ytimg.com/vi/B8xb3xUTRWw/maxresdefault.jpg",
+          "published_at": "2026-01-01T13:23:44Z",
+          "view_count": 825324,
+          "duration_sec": 12
+        }
+      ]
+    },
+    "tips": {
+      "label": "꿀팁",
+      "query": "쇼츠 꿀팁 #shorts",
+      "items": [
+        {
+          "id": "EL1XIzn_u6k",
+          "url": "https://www.youtube.com/shorts/EL1XIzn_u6k",
+          "title": "연어 필렛 살 때 꿀팁 #shorts #short #쇼츠 #노량진 #수산시장 #노량진수산시장 #연어 #해산물 #꿀팁 #꿀팁공유",
+          "channel": "치얼스부부 cheersbubu",
+          "channel_id": "UC6oRXbcmiJZanTWZj46lfrg",
+          "thumbnail": "https://i.ytimg.com/vi/EL1XIzn_u6k/maxresdefault.jpg",
+          "published_at": "2023-12-09T07:11:43Z",
+          "view_count": 12390254,
+          "duration_sec": 59
+        },
+        {
+          "id": "52j5dsnEa0g",
+          "url": "https://www.youtube.com/shorts/52j5dsnEa0g",
+          "title": "유튜브에서 가장 짧은 영상!",
+          "channel": "스토리",
+          "channel_id": "UCm2PiWccs-otbzhjiNXHu5g",
+          "thumbnail": "https://i.ytimg.com/vi/52j5dsnEa0g/maxresdefault.jpg",
+          "published_at": "2022-01-28T04:05:54Z",
+          "view_count": 12425610,
+          "duration_sec": 26
+        },
+        {
+          "id": "Ol4PywYLM0M",
+          "url": "https://www.youtube.com/shorts/Ol4PywYLM0M",
+          "title": "딱풀로 머리 붙이는 사람 #쇼츠 #헤어스타일",
+          "channel": "제니파크Jennypark",
+          "channel_id": "UCQFyWQ7E2VhjUvtRgPl-WpQ",
+          "thumbnail": "https://i.ytimg.com/vi/Ol4PywYLM0M/maxresdefault.jpg",
+          "published_at": "2023-06-10T03:00:10Z",
+          "view_count": 6461535,
+          "duration_sec": 19
+        },
+        {
+          "id": "DOBZIv-TkhA",
+          "url": "https://www.youtube.com/shorts/DOBZIv-TkhA",
+          "title": "알바 인생 최악의 실수 썰 푸는 쇼츠 #shorts",
+          "channel": "사내뷰공업 beautyfool",
+          "channel_id": "UCeS6R89S32mSOxTNoEqrN7g",
+          "thumbnail": "https://i.ytimg.com/vi/DOBZIv-TkhA/maxresdefault.jpg",
+          "published_at": "2023-07-31T07:58:20Z",
+          "view_count": 5657405,
+          "duration_sec": 59
+        },
+        {
+          "id": "Wb94szYmSGI",
+          "url": "https://www.youtube.com/shorts/Wb94szYmSGI",
+          "title": "쇼츠 영상들의 비밀...",
+          "channel": "스토리",
+          "channel_id": "UCm2PiWccs-otbzhjiNXHu5g",
+          "thumbnail": "https://i.ytimg.com/vi/Wb94szYmSGI/maxresdefault.jpg",
+          "published_at": "2022-03-19T09:29:55Z",
+          "view_count": 5251504,
+          "duration_sec": 25
+        },
+        {
+          "id": "ziMX1vb8cAk",
+          "url": "https://www.youtube.com/shorts/ziMX1vb8cAk",
+          "title": "이게 립스틱?! 이번 신박템 폼 미쳤다🫢 #shorts #쇼츠",
+          "channel": "파우더룸",
+          "channel_id": "UC6yQArYJNJQb3PVqP5jhnAQ",
+          "thumbnail": "https://i.ytimg.com/vi/ziMX1vb8cAk/maxresdefault.jpg",
+          "published_at": "2023-02-03T06:00:17Z",
+          "view_count": 4855776,
+          "duration_sec": 41
+        },
+        {
+          "id": "MyzHy06fyfM",
+          "url": "https://www.youtube.com/shorts/MyzHy06fyfM",
+          "title": "예비군 가면 꼭 있는 패션 유형 #shorts #쇼츠",
+          "channel": "홍또기",
+          "channel_id": "UCsjNYWQvbzb_4z4t_sL1y6w",
+          "thumbnail": "https://i.ytimg.com/vi/MyzHy06fyfM/maxresdefault.jpg",
+          "published_at": "2023-08-02T13:00:24Z",
+          "view_count": 4314632,
+          "duration_sec": 48
+        },
+        {
+          "id": "94LFFy4bwEM",
+          "url": "https://www.youtube.com/shorts/94LFFy4bwEM",
+          "title": "퍼프..? 이렇게 쓰면 200% 무너짐😅 #shorts",
+          "channel": "HOONION",
+          "channel_id": "UC3ZQbE9FKR8TwHYqTNcIXQQ",
+          "thumbnail": "https://i.ytimg.com/vi/94LFFy4bwEM/maxresdefault.jpg",
+          "published_at": "2022-05-11T08:00:25Z",
+          "view_count": 3060679,
+          "duration_sec": 48
+        },
+        {
+          "id": "kudzsCc_OH4",
+          "url": "https://www.youtube.com/shorts/kudzsCc_OH4",
+          "title": "외국인 애인 VS 한국인 애인 (ft. 외국에서 연애 꿀팁) #쇼츠 #미국 #유학생 #외국인 #윗유하우스 #shorts",
+          "channel": "쉐리 SHERRY",
+          "channel_id": "UCnbQutaGtu6EOKYnwT35Etg",
+          "thumbnail": "https://i.ytimg.com/vi/kudzsCc_OH4/maxresdefault.jpg",
+          "published_at": "2022-11-23T12:49:13Z",
+          "view_count": 2856770,
+          "duration_sec": 37
+        },
+        {
+          "id": "ZG6O9eS0dAo",
+          "url": "https://www.youtube.com/shorts/ZG6O9eS0dAo",
+          "title": "누가바 먹을때 꿀팁!! ㅋㅋㅋㅋ#Shorts",
+          "channel": "럭키강이 LuckyKang i",
+          "channel_id": "UCDHIA4d_e4SOrODpU7nrVtA",
+          "thumbnail": "https://i.ytimg.com/vi/ZG6O9eS0dAo/maxresdefault.jpg",
+          "published_at": "2022-01-28T09:00:17Z",
+          "view_count": 2811983,
+          "duration_sec": 30
+        },
+        {
+          "id": "mW5CoHcIrBg",
+          "url": "https://www.youtube.com/shorts/mW5CoHcIrBg",
+          "title": "반대로 쏘는 실리콘 #쇼츠",
+          "channel": "지구쏙",
+          "channel_id": "UCBDNEzhz537rqwtada6aBfQ",
+          "thumbnail": "https://i.ytimg.com/vi/mW5CoHcIrBg/maxresdefault.jpg",
+          "published_at": "2026-01-02T13:51:04Z",
+          "view_count": 5876592,
+          "duration_sec": 35
+        },
+        {
+          "id": "bt3Uzc6e8hM",
+          "url": "https://www.youtube.com/shorts/bt3Uzc6e8hM",
+          "title": "52kg 몸무게 논란 유튜버..직접 재보니.....헉!  #패션#다이어트#쇼츠#룩북2023년 8월 13일",
+          "channel": "소신사장 SoshinTV",
+          "channel_id": "UC_gkwRB-p1JrOzzJk7PBKDQ",
+          "thumbnail": "https://i.ytimg.com/vi/bt3Uzc6e8hM/maxresdefault.jpg",
+          "published_at": "2023-08-13T10:45:01Z",
+          "view_count": 3038432,
+          "duration_sec": 25
+        }
+      ]
+    },
+    "product": {
+      "label": "제품 리뷰",
+      "query": "쇼츠 제품 리뷰 #shorts",
+      "items": [
+        {
+          "id": "xgalnPF75LA",
+          "url": "https://www.youtube.com/shorts/xgalnPF75LA",
+          "title": "샤워 필수품 방수스티커 #제품리뷰 #내돈내산",
+          "channel": "리뷰야놀자",
+          "channel_id": "UCX0Qk4QtPOlEwBmsbIG4vOg",
+          "thumbnail": "https://i.ytimg.com/vi/xgalnPF75LA/maxresdefault.jpg",
+          "published_at": "2023-03-01T07:18:00Z",
+          "view_count": 9898810,
+          "duration_sec": 45
+        },
+        {
+          "id": "_RBp5DAZBrc",
+          "url": "https://www.youtube.com/shorts/_RBp5DAZBrc",
+          "title": "한국 주방에도 곧 들어설 대박 아이템!         #쇼츠 #shorts #사업",
+          "channel": "영보스",
+          "channel_id": "UCseRtCpOFnf7_R1N7gsL5wQ",
+          "thumbnail": "https://i.ytimg.com/vi/_RBp5DAZBrc/maxresdefault.jpg",
+          "published_at": "2025-04-07T11:03:59Z",
+          "view_count": 16268707,
+          "duration_sec": 17
+        },
+        {
+          "id": "i7qekwVRrOA",
+          "url": "https://www.youtube.com/shorts/i7qekwVRrOA",
+          "title": "업그레이드된 전동청소솔로 친구집 청소하기 #제품리뷰 #shorts",
+          "channel": "리뷰야놀자",
+          "channel_id": "UCX0Qk4QtPOlEwBmsbIG4vOg",
+          "thumbnail": "https://i.ytimg.com/vi/i7qekwVRrOA/maxresdefault.jpg",
+          "published_at": "2022-11-04T09:00:26Z",
+          "view_count": 6113067,
+          "duration_sec": 59
+        },
+        {
+          "id": "cUCL7urcGY0",
+          "url": "https://www.youtube.com/shorts/cUCL7urcGY0",
+          "title": "신데렐라의 유리가방 #내돈내산 #shorts",
+          "channel": "나오는대로 리뷰",
+          "channel_id": "UCPPy71r5PbqqiXNSg1gHJgg",
+          "thumbnail": "https://i.ytimg.com/vi/cUCL7urcGY0/maxresdefault.jpg",
+          "published_at": "2024-05-31T08:20:00Z",
+          "view_count": 5782496,
+          "duration_sec": 60
+        },
+        {
+          "id": "eWbAZ4fPaC4",
+          "url": "https://www.youtube.com/shorts/eWbAZ4fPaC4",
+          "title": "색다르게 킷켓으로 만든 인싸초콜릿라떼#제품리뷰 #shorts",
+          "channel": "리뷰야놀자",
+          "channel_id": "UCX0Qk4QtPOlEwBmsbIG4vOg",
+          "thumbnail": "https://i.ytimg.com/vi/eWbAZ4fPaC4/maxresdefault.jpg",
+          "published_at": "2022-10-22T07:10:40Z",
+          "view_count": 5457063,
+          "duration_sec": 57
+        },
+        {
+          "id": "ePSUsWImeCw",
+          "url": "https://www.youtube.com/shorts/ePSUsWImeCw",
+          "title": "열받네 #리뷰 #알리익스프레스 #알리 #테무 #테무깡 #temu #shorts",
+          "channel": "지하니",
+          "channel_id": "UCQr8QXrzpIE1yCz7l283rqQ",
+          "thumbnail": "https://i.ytimg.com/vi/ePSUsWImeCw/maxresdefault.jpg",
+          "published_at": "2024-05-08T10:41:08Z",
+          "view_count": 5813396,
+          "duration_sec": 40
+        },
+        {
+          "id": "ziMX1vb8cAk",
+          "url": "https://www.youtube.com/shorts/ziMX1vb8cAk",
+          "title": "이게 립스틱?! 이번 신박템 폼 미쳤다🫢 #shorts #쇼츠",
+          "channel": "파우더룸",
+          "channel_id": "UC6yQArYJNJQb3PVqP5jhnAQ",
+          "thumbnail": "https://i.ytimg.com/vi/ziMX1vb8cAk/maxresdefault.jpg",
+          "published_at": "2023-02-03T06:00:17Z",
+          "view_count": 4855776,
+          "duration_sec": 41
+        },
+        {
+          "id": "tAvWPbMWQSc",
+          "url": "https://www.youtube.com/shorts/tAvWPbMWQSc",
+          "title": "다이소에서파는 책상정리템 성능ㄷㄷ#shorts",
+          "channel": "리뷰하는호랭",
+          "channel_id": "UCvoaqFUsRbiInhmDUfYwyqA",
+          "thumbnail": "https://i.ytimg.com/vi/tAvWPbMWQSc/maxresdefault.jpg",
+          "published_at": "2022-12-10T02:00:13Z",
+          "view_count": 3854554,
+          "duration_sec": 53
+        },
+        {
+          "id": "PTbKT2U_qqA",
+          "url": "https://www.youtube.com/shorts/PTbKT2U_qqA",
+          "title": "으잉 여드름 슬라임..? #shorts",
+          "channel": "각각의 사연",
+          "channel_id": "UCGN0_2kvsOwdwbJq5q3SVGQ",
+          "thumbnail": "https://i.ytimg.com/vi/PTbKT2U_qqA/maxresdefault.jpg",
+          "published_at": "2022-12-09T14:56:39Z",
+          "view_count": 3910465,
+          "duration_sec": 58
+        },
+        {
+          "id": "YlTmP-pklAk",
+          "url": "https://www.youtube.com/shorts/YlTmP-pklAk",
+          "title": "사탕수수로 설탕을 만들 수 있다네요#제품리뷰 #shorts",
+          "channel": "리뷰야놀자",
+          "channel_id": "UCX0Qk4QtPOlEwBmsbIG4vOg",
+          "thumbnail": "https://i.ytimg.com/vi/YlTmP-pklAk/maxresdefault.jpg",
+          "published_at": "2022-10-20T14:17:05Z",
+          "view_count": 3447377,
+          "duration_sec": 59
+        },
+        {
+          "id": "4QwFYiy3CdM",
+          "url": "https://www.youtube.com/shorts/4QwFYiy3CdM",
+          "title": "완벽한 합법 총으로 만들어 봤습니다 #글록18 #리얼리뷰 #shorts",
+          "channel": "어른왕자연구소",
+          "channel_id": "UCc4cLwPVVn7i_lc2VQHDeYg",
+          "thumbnail": "https://i.ytimg.com/vi/4QwFYiy3CdM/maxresdefault.jpg",
+          "published_at": "2022-12-03T03:12:00Z",
+          "view_count": 2409346,
+          "duration_sec": 58
+        },
+        {
+          "id": "QJYtokWgIGY",
+          "url": "https://www.youtube.com/shorts/QJYtokWgIGY",
+          "title": "기타 초보도 이것만 있으면 고수가 된다고? #내돈내산",
+          "channel": "리뷰야놀자",
+          "channel_id": "UCX0Qk4QtPOlEwBmsbIG4vOg",
+          "thumbnail": "https://i.ytimg.com/vi/QJYtokWgIGY/maxresdefault.jpg",
+          "published_at": "2024-05-03T09:00:22Z",
+          "view_count": 2176294,
+          "duration_sec": 60
+        }
+      ]
+    },
+    "lifestyle": {
+      "label": "라이프스타일",
+      "query": "쇼츠 라이프스타일 #shorts",
+      "items": [
+        {
+          "id": "_RGXQ7EjMjU",
+          "url": "https://www.youtube.com/shorts/_RGXQ7EjMjU",
+          "title": "Lifestyle of Talented people that blow your mind Part 402 | #shorts",
+          "channel": "Village Online Team",
+          "channel_id": "UCZCfcbknZ0TuEyd3WyV4eow",
+          "thumbnail": "https://i.ytimg.com/vi/_RGXQ7EjMjU/maxresdefault.jpg",
+          "published_at": "2024-01-10T05:09:07Z",
+          "view_count": 23698009,
+          "duration_sec": 51
+        },
+        {
+          "id": "2ipr9tWxw6s",
+          "url": "https://www.youtube.com/shorts/2ipr9tWxw6s",
+          "title": "3 Tips To Get An Attractive Face 😍 | #shorts #viral",
+          "channel": "Mr Men Fashion",
+          "channel_id": "UCJXejZ134qGzXNb8irPO9MQ",
+          "thumbnail": "https://i.ytimg.com/vi/2ipr9tWxw6s/maxresdefault.jpg",
+          "published_at": "2023-04-18T15:30:05Z",
+          "view_count": 7022595,
+          "duration_sec": 42
+        },
+        {
+          "id": "a8VnGwbsLLc",
+          "url": "https://www.youtube.com/shorts/a8VnGwbsLLc",
+          "title": "Sticker Paper Vinyl | Stickers| Funny Shorts | Stickers | Lifestyle | A-SUB® Paper#diy #stickers",
+          "channel": "A-SUB® Paper Manufacturer",
+          "channel_id": "UCZDCtehjTG5eRBWisRvBlcg",
+          "thumbnail": "https://i.ytimg.com/vi/a8VnGwbsLLc/maxresdefault.jpg",
+          "published_at": "2023-05-13T21:00:00Z",
+          "view_count": 1554629,
+          "duration_sec": 19
+        },
+        {
+          "id": "1YpZbH0DtEo",
+          "url": "https://www.youtube.com/shorts/1YpZbH0DtEo",
+          "title": "😍✈️ Stylish Air Hostess Walk in Shopping Mall | Fashion & Lifestyle #Shorts #fashion #style #arena",
+          "channel": "S.N.SHORTS",
+          "channel_id": "UCl6vC0XZJMH5kjs6UoDU0Bg",
+          "thumbnail": "https://i.ytimg.com/vi/1YpZbH0DtEo/maxresdefault.jpg",
+          "published_at": "2025-09-17T13:37:01Z",
+          "view_count": 322043,
+          "duration_sec": 36
+        },
+        {
+          "id": "-yamQzntxNQ",
+          "url": "https://www.youtube.com/shorts/-yamQzntxNQ",
+          "title": "Look to the end and you will smile Km Lifestyle #shorts",
+          "channel": "Km Lifestyle",
+          "channel_id": "UCPKJ9qcGsAmtK0hWnrbWgnQ",
+          "thumbnail": "https://i.ytimg.com/vi/-yamQzntxNQ/maxresdefault.jpg",
+          "published_at": "2023-08-10T03:45:20Z",
+          "view_count": 126796,
+          "duration_sec": 17
+        },
+        {
+          "id": "K0nUheg66Uk",
+          "url": "https://www.youtube.com/shorts/K0nUheg66Uk",
+          "title": "Uncle ne banaya sssabaar😳 #blog #lifestyle #dailyvlog #funny #comedy #explorepage #shorts",
+          "channel": "Davel Family",
+          "channel_id": "UC0M1IgChQ5ZWZvllVjjL0zA",
+          "thumbnail": "https://i.ytimg.com/vi/K0nUheg66Uk/maxresdefault.jpg",
+          "published_at": "2026-05-10T01:53:42Z",
+          "view_count": 194731,
+          "duration_sec": 38
+        },
+        {
+          "id": "F94dthfoXJ0",
+          "url": "https://www.youtube.com/shorts/F94dthfoXJ0",
+          "title": "Aaj se chips nahi khaegi 🥹 #shorts #viralvideo #youtubeshorts #lifestyle",
+          "channel": "AQ Cooking ",
+          "channel_id": "UC0edBjUzVJ53rjcoJlGEUrw",
+          "thumbnail": "https://i.ytimg.com/vi/F94dthfoXJ0/maxresdefault.jpg",
+          "published_at": "2026-05-08T14:02:45Z",
+          "view_count": 158650,
+          "duration_sec": 29
+        },
+        {
+          "id": "r7dmqccRw_c",
+          "url": "https://www.youtube.com/shorts/r7dmqccRw_c",
+          "title": "Bread sweets Prank sunita ke saath #food #recipe #cooking #shorts #lifestyle",
+          "channel": "Chhora Raushan",
+          "channel_id": "UCI4SKTjWgakgAr2ploDDcug",
+          "thumbnail": "https://i.ytimg.com/vi/r7dmqccRw_c/maxresdefault.jpg",
+          "published_at": "2026-05-07T15:51:21Z",
+          "view_count": 155348,
+          "duration_sec": 55
+        },
+        {
+          "id": "Hsh6nuu0ab8",
+          "url": "https://www.youtube.com/shorts/Hsh6nuu0ab8",
+          "title": "돈, 일, 라이프스타일",
+          "channel": "BZCF | 비즈까페",
+          "channel_id": "UCWgXoKQ4rl7SY9UHuAwxvzQ",
+          "thumbnail": "https://i.ytimg.com/vi/Hsh6nuu0ab8/maxresdefault.jpg",
+          "published_at": "2024-11-01T12:54:43Z",
+          "view_count": 27036,
+          "duration_sec": 40
+        },
+        {
+          "id": "aKrS5tRfxY0",
+          "url": "https://www.youtube.com/shorts/aKrS5tRfxY0",
+          "title": "Porsche 911 Carrera | Iconic Supercar Lifestyle & Spotting #Shorts",
+          "channel": "The beauty of south africa",
+          "channel_id": "UC3WrLlyEMgSpcKtsCJupV9Q",
+          "thumbnail": "https://i.ytimg.com/vi/aKrS5tRfxY0/maxresdefault.jpg",
+          "published_at": "2025-10-24T14:00:02Z",
+          "view_count": 35482,
+          "duration_sec": 44
+        },
+        {
+          "id": "cXjn0RaYKpI",
+          "url": "https://www.youtube.com/shorts/cXjn0RaYKpI",
+          "title": "Peanut butter recipe | Healthy Peanut butter | Shorts | SVR lifestyle |",
+          "channel": "SVR Lifestyle",
+          "channel_id": "UCBxZru-xmoYIuLpqXwwCvxQ",
+          "thumbnail": "https://i.ytimg.com/vi/cXjn0RaYKpI/maxresdefault.jpg",
+          "published_at": "2021-05-27T10:14:01Z",
+          "view_count": 22055,
+          "duration_sec": 60
+        },
+        {
+          "id": "NgOAwBJu0LI",
+          "url": "https://www.youtube.com/shorts/NgOAwBJu0LI",
+          "title": "Peaceful Village Life Moments 🌿✨#VillageLife #Culture #Lifestyle #Shorts #YouTubeShorts",
+          "channel": "Africa Forest Life",
+          "channel_id": "UCzyr_trDhweHRnSx8wiF-AA",
+          "thumbnail": "https://i.ytimg.com/vi/NgOAwBJu0LI/maxresdefault.jpg",
+          "published_at": "2026-05-10T07:01:49Z",
+          "view_count": 70338,
+          "duration_sec": 6
+        }
+      ]
+    },
+    "food": {
+      "label": "푸드/요리",
+      "query": "쇼츠 요리 #shorts",
+      "items": [
+        {
+          "id": "Iw8hgPHIuXQ",
+          "url": "https://www.youtube.com/shorts/Iw8hgPHIuXQ",
+          "title": "아기 루피 두구두구 팡팡🐾 #shorts #쇼츠 #잔망루피",
+          "channel": "잔망루피 ZANMANG LOOPY",
+          "channel_id": "UChIgH6NybaNC_mkp4-gbX3A",
+          "thumbnail": "https://i.ytimg.com/vi/Iw8hgPHIuXQ/maxresdefault.jpg",
+          "published_at": "2022-10-25T09:00:09Z",
+          "view_count": 55327564,
+          "duration_sec": 15
+        },
+        {
+          "id": "A9jkqG7JKkY",
+          "url": "https://www.youtube.com/shorts/A9jkqG7JKkY",
+          "title": "전설의 불닭팽이쌈 영상을 재연해보자",
+          "channel": "이상한 과자가게  weird sweets shop",
+          "channel_id": "UCNYE6N9YZmsUyReBLzE9x9Q",
+          "thumbnail": "https://i.ytimg.com/vi/A9jkqG7JKkY/maxresdefault.jpg",
+          "published_at": "2024-11-25T06:00:06Z",
+          "view_count": 33308458,
+          "duration_sec": 56
+        },
+        {
+          "id": "Klbwhdd5MR8",
+          "url": "https://www.youtube.com/shorts/Klbwhdd5MR8",
+          "title": "부부싸움 후 남편도시락 #shorts",
+          "channel": "새벽6시 도시락싸는 주부",
+          "channel_id": "UCL3XQXfvshedwa_j-Umx8wg",
+          "thumbnail": "https://i.ytimg.com/vi/Klbwhdd5MR8/maxresdefault.jpg",
+          "published_at": "2023-01-19T22:45:01Z",
+          "view_count": 19108286,
+          "duration_sec": 58
+        },
+        {
+          "id": "eU6VoHNUTlM",
+          "url": "https://www.youtube.com/shorts/eU6VoHNUTlM",
+          "title": "라면만큼 쉬운 레시피",
+          "channel": "랜덤토랑 Randomtaurant",
+          "channel_id": "UCDd2WQ-qpZU-Mt9mphLQvvg",
+          "thumbnail": "https://i.ytimg.com/vi/eU6VoHNUTlM/maxresdefault.jpg",
+          "published_at": "2022-10-28T09:07:00Z",
+          "view_count": 17789640,
+          "duration_sec": 18
+        },
+        {
+          "id": "IKcrcnmNSI4",
+          "url": "https://www.youtube.com/shorts/IKcrcnmNSI4",
+          "title": "쫀득쫀득 난리남 #shorts",
+          "channel": "레시피 읽어주는 여자",
+          "channel_id": "UC4Icothd_W0M7jRzNyAszoA",
+          "thumbnail": "https://i.ytimg.com/vi/IKcrcnmNSI4/maxresdefault.jpg",
+          "published_at": "2023-03-22T12:22:24Z",
+          "view_count": 16218737,
+          "duration_sec": 43
+        },
+        {
+          "id": "QXL6aKbg4Ew",
+          "url": "https://www.youtube.com/shorts/QXL6aKbg4Ew",
+          "title": "다 묻히고 먹은 진진짜라🥲 #shorts #쇼츠",
+          "channel": "돼끼 baby_pig_rabbit",
+          "channel_id": "UCW-QBEmxsme2FAONSnTjp-g",
+          "thumbnail": "https://i.ytimg.com/vi/QXL6aKbg4Ew/maxresdefault.jpg",
+          "published_at": "2022-01-09T08:00:53Z",
+          "view_count": 11149474,
+          "duration_sec": 56
+        },
+        {
+          "id": "xO_Vp008JgA",
+          "url": "https://www.youtube.com/shorts/xO_Vp008JgA",
+          "title": "아빠의 장난이 만들어준 1억 조회수.       #쇼츠 #shorts",
+          "channel": "월드닷컴",
+          "channel_id": "UCLtKSD7xfWgnuiYYDApR3jQ",
+          "thumbnail": "https://i.ytimg.com/vi/xO_Vp008JgA/maxresdefault.jpg",
+          "published_at": "2025-04-26T12:02:54Z",
+          "view_count": 23573418,
+          "duration_sec": 12
+        },
+        {
+          "id": "yo3-vyn_Hxg",
+          "url": "https://www.youtube.com/shorts/yo3-vyn_Hxg",
+          "title": "소리가 미친듯이 자극적인 중국간식??",
+          "channel": "이상한 과자가게  weird sweets shop",
+          "channel_id": "UCNYE6N9YZmsUyReBLzE9x9Q",
+          "thumbnail": "https://i.ytimg.com/vi/yo3-vyn_Hxg/maxresdefault.jpg",
+          "published_at": "2024-06-12T10:12:16Z",
+          "view_count": 11040311,
+          "duration_sec": 46
+        },
+        {
+          "id": "No_c_F20H2M",
+          "url": "https://www.youtube.com/shorts/No_c_F20H2M",
+          "title": "불닭볶음면 처음 먹기 전/후 #shorts",
+          "channel": "유유타이거",
+          "channel_id": "UCa3XfT_AccZCELBLC913oEg",
+          "thumbnail": "https://i.ytimg.com/vi/No_c_F20H2M/maxresdefault.jpg",
+          "published_at": "2022-06-10T03:00:10Z",
+          "view_count": 7532277,
+          "duration_sec": 31
+        },
+        {
+          "id": "ERMZmnjs11I",
+          "url": "https://www.youtube.com/shorts/ERMZmnjs11I",
+          "title": "3초 삼겹살.. ㄷㄷ #shorts #쇼츠",
+          "channel": "핫쇼츠",
+          "channel_id": "UCETl9S7_tJVExpGWXn3EEJQ",
+          "thumbnail": "https://i.ytimg.com/vi/ERMZmnjs11I/maxresdefault.jpg",
+          "published_at": "2023-02-25T10:45:00Z",
+          "view_count": 6966635,
+          "duration_sec": 21
+        },
+        {
+          "id": "Alqync7X-uI",
+          "url": "https://www.youtube.com/shorts/Alqync7X-uI",
+          "title": "나이대 별 맵찔이 레벨 🔥 #shorts #Spicychallenge",
+          "channel": "김켈리 Kellyfornia",
+          "channel_id": "UCmjjgsm51PYMPf5REDylbSA",
+          "thumbnail": "https://i.ytimg.com/vi/Alqync7X-uI/maxresdefault.jpg",
+          "published_at": "2023-05-22T10:51:00Z",
+          "view_count": 6208876,
+          "duration_sec": 21
+        },
+        {
+          "id": "1r4nqCejINs",
+          "url": "https://www.youtube.com/shorts/1r4nqCejINs",
+          "title": "나만 몰랐어? 일본에서 겨울에 엄!!청 많이 먹는다는 음식",
+          "channel": "이상한 과자가게  weird sweets shop",
+          "channel_id": "UCNYE6N9YZmsUyReBLzE9x9Q",
+          "thumbnail": "https://i.ytimg.com/vi/1r4nqCejINs/maxresdefault.jpg",
+          "published_at": "2024-01-25T09:07:29Z",
+          "view_count": 5896198,
+          "duration_sec": 51
+        }
+      ]
+    },
+    "tech": {
+      "label": "테크/IT",
+      "query": "쇼츠 테크 리뷰 #shorts",
+      "items": [
+        {
+          "id": "pYcEPHrXsXc",
+          "url": "https://www.youtube.com/shorts/pYcEPHrXsXc",
+          "title": "아직도 불편하게 숏츠 보시나요? #제품리뷰 #내돈내산 #핑거컨트롤러",
+          "channel": "리뷰야놀자",
+          "channel_id": "UCX0Qk4QtPOlEwBmsbIG4vOg",
+          "thumbnail": "https://i.ytimg.com/vi/pYcEPHrXsXc/maxresdefault.jpg",
+          "published_at": "2022-12-19T13:46:00Z",
+          "view_count": 1383603,
+          "duration_sec": 50
+        },
+        {
+          "id": "Z7MZjPWch-0",
+          "url": "https://www.youtube.com/shorts/Z7MZjPWch-0",
+          "title": "스마트폰 중독자들은 이거 사야함.  #쇼츠 #shorts #아이폰",
+          "channel": "영보스",
+          "channel_id": "UCseRtCpOFnf7_R1N7gsL5wQ",
+          "thumbnail": "https://i.ytimg.com/vi/Z7MZjPWch-0/maxresdefault.jpg",
+          "published_at": "2025-05-08T11:06:04Z",
+          "view_count": 1090985,
+          "duration_sec": 21
+        },
+        {
+          "id": "qQPol723VwU",
+          "url": "https://www.youtube.com/shorts/qQPol723VwU",
+          "title": "정말 일본스러운 아이디어 제품.       #쇼츠 #shorts #일본",
+          "channel": "영보스",
+          "channel_id": "UCseRtCpOFnf7_R1N7gsL5wQ",
+          "thumbnail": "https://i.ytimg.com/vi/qQPol723VwU/maxresdefault.jpg",
+          "published_at": "2025-06-02T11:24:31Z",
+          "view_count": 187415,
+          "duration_sec": 17
+        },
+        {
+          "id": "uMqs5-hJQyI",
+          "url": "https://www.youtube.com/shorts/uMqs5-hJQyI",
+          "title": "일진 옷 실착 후기 #리뷰 #shorts #쇼츠",
+          "channel": "홍또기",
+          "channel_id": "UCsjNYWQvbzb_4z4t_sL1y6w",
+          "thumbnail": "https://i.ytimg.com/vi/uMqs5-hJQyI/maxresdefault.jpg",
+          "published_at": "2023-07-14T13:16:42Z",
+          "view_count": 73257,
+          "duration_sec": 37
+        },
+        {
+          "id": "NEu6N-Sgl7g",
+          "url": "https://www.youtube.com/shorts/NEu6N-Sgl7g",
+          "title": "나도 다 알아!! #Shorts",
+          "channel": "신동댕동 Shindongdengdong",
+          "channel_id": "UC7m9K8lcptwUpt9UoNh5Xgg",
+          "thumbnail": "https://i.ytimg.com/vi/NEu6N-Sgl7g/maxresdefault.jpg",
+          "published_at": "2021-12-27T11:17:03Z",
+          "view_count": 27261,
+          "duration_sec": 42
+        },
+        {
+          "id": "-Rn4UO2bDcg",
+          "url": "https://www.youtube.com/shorts/-Rn4UO2bDcg",
+          "title": "손안대고 쇼츠볼수있게하는 마법의 템? #shorts #리뷰 #스마트링",
+          "channel": "리뷰하는호랭",
+          "channel_id": "UCvoaqFUsRbiInhmDUfYwyqA",
+          "thumbnail": "https://i.ytimg.com/vi/-Rn4UO2bDcg/maxresdefault.jpg",
+          "published_at": "2023-11-15T08:36:56Z",
+          "view_count": 25800,
+          "duration_sec": 42
+        },
+        {
+          "id": "xYTNOOteXPo",
+          "url": "https://www.youtube.com/shorts/xYTNOOteXPo",
+          "title": "The Worst Apple Cases #shorts #iphonecase #iphone #droptest #phonecase #case #techreview #tech",
+          "channel": "Tyler Morgan",
+          "channel_id": "UCtyPy6b74VOZUMCYpmxozmg",
+          "thumbnail": "https://i.ytimg.com/vi/xYTNOOteXPo/maxresdefault.jpg",
+          "published_at": "2024-02-28T12:56:04Z",
+          "view_count": 13268,
+          "duration_sec": 41
+        },
+        {
+          "id": "YR77CigkEsE",
+          "url": "https://www.youtube.com/shorts/YR77CigkEsE",
+          "title": "삼성이 만든 스마트 안경 #쇼츠 #shorts #삼성글래스 #삼성전자  #젠틀몬스터",
+          "channel": "Friends_Mobile_Korea",
+          "channel_id": "UCvhOV386aHIIWRCtc4sHzwg",
+          "thumbnail": "https://i.ytimg.com/vi/YR77CigkEsE/maxresdefault.jpg",
+          "published_at": "2026-05-08T10:00:54Z",
+          "view_count": 15280,
+          "duration_sec": 33
+        },
+        {
+          "id": "i6-I6AVI8ZE",
+          "url": "https://www.youtube.com/shorts/i6-I6AVI8ZE",
+          "title": "갤럭시S25 엣지, 구매 전 알아야 할 장점과 단점! #쇼츠 #shorts",
+          "channel": "테크리오",
+          "channel_id": "UCNE1FyHG_Dh9mXne8fLm4qQ",
+          "thumbnail": "https://i.ytimg.com/vi/i6-I6AVI8ZE/maxresdefault.jpg",
+          "published_at": "2025-05-15T10:01:17Z",
+          "view_count": 9943,
+          "duration_sec": 49
+        },
+        {
+          "id": "-1ahhUirekc",
+          "url": "https://www.youtube.com/shorts/-1ahhUirekc",
+          "title": "앱등이들의 훈수를 부르는 맥북 리뷰 #shorts #쇼츠 #맥북 #브이로그 #맥북언박싱 #애플",
+          "channel": "보니킴 Bonnie",
+          "channel_id": "UCqSdvmOxhl5aAgOzHEoOEvg",
+          "thumbnail": "https://i.ytimg.com/vi/-1ahhUirekc/maxresdefault.jpg",
+          "published_at": "2024-12-29T00:00:00Z",
+          "view_count": 4408,
+          "duration_sec": 8
+        },
+        {
+          "id": "GkHTxBqykmE",
+          "url": "https://www.youtube.com/shorts/GkHTxBqykmE",
+          "title": "아즈라 게이밍이어폰 오르타 MK2 리뷰🔥  #shorts #쇼츠 #숏츠 #아즈라 #이어팁 #이어폰 #이어폰추천 #줄이어폰 #유선이어폰 #비교 #리뷰",
+          "channel": "AZLA Official",
+          "channel_id": "UCF024e2NbpmOHNVjEbCZXaQ",
+          "thumbnail": "https://i.ytimg.com/vi/GkHTxBqykmE/maxresdefault.jpg",
+          "published_at": "2023-10-13T00:09:56Z",
+          "view_count": 3379,
+          "duration_sec": 54
+        },
+        {
+          "id": "kq74v4di3AQ",
+          "url": "https://www.youtube.com/shorts/kq74v4di3AQ",
+          "title": "아즈라 크리스탈(스탠다드, 에어팟 프로) 리뷰🔥  #shorts #쇼츠 #숏츠 #아즈라 #이어팁 #이어폰 #이어폰추천 #줄이어폰 #비교 #리뷰 #소니 #WF1000XM5",
+          "channel": "AZLA Official",
+          "channel_id": "UCF024e2NbpmOHNVjEbCZXaQ",
+          "thumbnail": "https://i.ytimg.com/vi/kq74v4di3AQ/maxresdefault.jpg",
+          "published_at": "2023-10-17T00:15:20Z",
+          "view_count": 1556,
+          "duration_sec": 60
+        }
+      ]
+    }
+  }
+}
