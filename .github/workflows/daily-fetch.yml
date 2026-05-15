@@ -1,0 +1,41 @@
+name: Daily YouTube Shorts Fetch
+
+# 한국 00시 = UTC 15:00 (전날). cron 은 UTC 기준.
+# 매일 UTC 15:00 = KST 00:00 에 실행
+on:
+  schedule:
+    - cron: "0 15 * * *"
+  workflow_dispatch:  # 수동 실행도 가능 (테스트용)
+
+permissions:
+  contents: write  # data/feed.json commit 권한
+
+jobs:
+  fetch:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Run fetch
+        env:
+          YOUTUBE_API_KEY: ${{ secrets.YOUTUBE_API_KEY }}
+        run: |
+          python fetch.py
+
+      - name: Commit updated feed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/feed.json
+          # 변경 없으면 commit skip
+          if git diff --staged --quiet; then
+            echo "변경 없음 — commit skip"
+          else
+            git commit -m "feed update $(date -u +%Y-%m-%d)"
+            git push
+          fi
