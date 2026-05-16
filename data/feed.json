@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-05-16T01:47:17+09:00",
-  "date": "2026-05-16",
+  "updated_at": "2026-05-17T00:50:06+09:00",
+  "date": "2026-05-17",
   "categories": {
     "trending": {
       "label": "🔥 인기 쇼츠",
@@ -14,7 +14,7 @@
           "channel_id": "UCUWNgAYGX_AcZWahMHShx5g",
           "thumbnail": "https://i.ytimg.com/vi/6C_xFde9_lc/maxresdefault.jpg",
           "published_at": "2022-11-08T15:01:59Z",
-          "view_count": 410818932,
+          "view_count": 410836613,
           "duration_sec": 9
         },
         {
@@ -25,7 +25,7 @@
           "channel_id": "UCrK3QhysEdDe96_e2ewIOuA",
           "thumbnail": "https://i.ytimg.com/vi/1iSo0oBnPrA/maxresdefault.jpg",
           "published_at": "2022-04-10T20:35:56Z",
-          "view_count": 9482236,
+          "view_count": 9482307,
           "duration_sec": 60
         },
         {
@@ -36,7 +36,7 @@
           "channel_id": "UCLtKSD7xfWgnuiYYDApR3jQ",
           "thumbnail": "https://i.ytimg.com/vi/JRJtg4-sDYQ/maxresdefault.jpg",
           "published_at": "2025-07-31T11:45:08Z",
-          "view_count": 13631624,
+          "view_count": 13632379,
           "duration_sec": 15
         },
         {
@@ -47,7 +47,7 @@
           "channel_id": "UCADxu2fFM-etDUwimZDplCg",
           "thumbnail": "https://i.ytimg.com/vi/2YyEO78Dm3Q/maxresdefault.jpg",
           "published_at": "2025-12-20T20:48:22Z",
-          "view_count": 12042768,
+          "view_count": 12042775,
           "duration_sec": 13
         },
         {
@@ -58,8 +58,19 @@
           "channel_id": "UCa74Uywoar4a79HNVKl3JBg",
           "thumbnail": "https://i.ytimg.com/vi/ZEBo4Xlj6Gs/maxresdefault.jpg",
           "published_at": "2026-03-30T11:52:04Z",
-          "view_count": 10133063,
+          "view_count": 10316841,
           "duration_sec": 17
+        },
+        {
+          "id": "fbjOxWQiOdg",
+          "url": "https://www.youtube.com/shorts/fbjOxWQiOdg",
+          "title": "붕어빵에 팥입니까 슈크림입니까. 저 진지해요. #shorts #쇼츠 #추천 #코미디 #공감 #웃긴영상 #foryoupage #trend",
+          "channel": "조닭발",
+          "channel_id": "UC3auHzis8Hm8WI_6UzAs8Zg",
+          "thumbnail": "https://i.ytimg.com/vi/fbjOxWQiOdg/maxresdefault.jpg",
+          "published_at": "2022-02-20T10:52:50Z",
+          "view_count": 3142702,
+          "duration_sec": 5
         },
         {
           "id": "-Ngn2xLpMMk",
@@ -69,7 +80,7 @@
           "channel_id": "UCa74Uywoar4a79HNVKl3JBg",
           "thumbnail": "https://i.ytimg.com/vi/-Ngn2xLpMMk/maxresdefault.jpg",
           "published_at": "2026-04-10T02:40:39Z",
-          "view_count": 5465333,
+          "view_count": 5479796,
           "duration_sec": 17
         },
         {
@@ -80,7 +91,7 @@
           "channel_id": "UCvgDqf0HGK58p3pRmCGOWRg",
           "thumbnail": "https://i.ytimg.com/vi/XEsNOQrcv9I/maxresdefault.jpg",
           "published_at": "2023-04-30T06:00:12Z",
-          "view_count": 1506192,
+          "view_count": 1506417,
           "duration_sec": 33
         },
         {
@@ -91,19 +102,8 @@
           "channel_id": "UCa74Uywoar4a79HNVKl3JBg",
           "thumbnail": "https://i.ytimg.com/vi/0lZGsHDrWPI/maxresdefault.jpg",
           "published_at": "2026-03-29T02:32:38Z",
-          "view_count": 3498884,
+          "view_count": 3515616,
           "duration_sec": 21
-        },
-        {
-          "id": "qYAl9V5Ms4w",
-          "url": "https://www.youtube.com/shorts/qYAl9V5Ms4w",
-          "title": "#한국바이럴 #웃긴영상 #코미디 #꿀잼 #유튜브쇼츠 #쇼츠 #바이럴 #트렌드 #재미 #웃음",
-          "channel": "Village Entertainment 2.0.2",
-          "channel_id": "UCa74Uywoar4a79HNVKl3JBg",
-          "thumbnail": "https://i.ytimg.com/vi/qYAl9V5Ms4w/maxresdefault.jpg",
-          "published_at": "2026-03-31T11:27:20Z",
-          "view_count": 2472193,
-          "duration_sec": 45
         },
         {
           "id": "eQOKfpj4uUw",
@@ -113,7 +113,7 @@
           "channel_id": "UCa74Uywoar4a79HNVKl3JBg",
           "thumbnail": "https://i.ytimg.com/vi/eQOKfpj4uUw/maxresdefault.jpg",
           "published_at": "2026-04-30T02:53:52Z",
-          "view_count": 2558148,
+          "view_count": 2724586,
           "duration_sec": 17
         },
         {
@@ -124,19 +124,19 @@
           "channel_id": "UCa74Uywoar4a79HNVKl3JBg",
           "thumbnail": "https://i.ytimg.com/vi/J7nqukh1FZU/maxresdefault.jpg",
           "published_at": "2026-03-27T12:17:34Z",
-          "view_count": 1926221,
+          "view_count": 1926223,
           "duration_sec": 19
         },
         {
-          "id": "B8xb3xUTRWw",
-          "url": "https://www.youtube.com/shorts/B8xb3xUTRWw",
-          "title": "র#한국바이럴 #웃긴영상 #코미디 #꿀잼 #유튜브쇼츠 #쇼츠 #바이럴 #트렌드 #재미 #웃음",
-          "channel": "Rd Nahiyan islam 2.0",
-          "channel_id": "UCADxu2fFM-etDUwimZDplCg",
-          "thumbnail": "https://i.ytimg.com/vi/B8xb3xUTRWw/maxresdefault.jpg",
-          "published_at": "2026-01-01T13:23:44Z",
-          "view_count": 825324,
-          "duration_sec": 12
+          "id": "9FDaCP7ZVKw",
+          "url": "https://www.youtube.com/shorts/9FDaCP7ZVKw",
+          "title": "쇼츠 vs 릴스 특징ㅋㅋㅋ",
+          "channel": "소나깅",
+          "channel_id": "UCmnHcT2EKv6b4TG1LecJ64g",
+          "thumbnail": "https://i.ytimg.com/vi/9FDaCP7ZVKw/maxresdefault.jpg",
+          "published_at": "2025-03-24T06:32:07Z",
+          "view_count": 650153,
+          "duration_sec": 53
         }
       ]
     },
@@ -152,7 +152,7 @@
           "channel_id": "UC6oRXbcmiJZanTWZj46lfrg",
           "thumbnail": "https://i.ytimg.com/vi/EL1XIzn_u6k/maxresdefault.jpg",
           "published_at": "2023-12-09T07:11:43Z",
-          "view_count": 12390254,
+          "view_count": 12390353,
           "duration_sec": 59
         },
         {
@@ -163,7 +163,7 @@
           "channel_id": "UCm2PiWccs-otbzhjiNXHu5g",
           "thumbnail": "https://i.ytimg.com/vi/52j5dsnEa0g/maxresdefault.jpg",
           "published_at": "2022-01-28T04:05:54Z",
-          "view_count": 12425779,
+          "view_count": 12427289,
           "duration_sec": 26
         },
         {
@@ -174,7 +174,7 @@
           "channel_id": "UCQFyWQ7E2VhjUvtRgPl-WpQ",
           "thumbnail": "https://i.ytimg.com/vi/Ol4PywYLM0M/maxresdefault.jpg",
           "published_at": "2023-06-10T03:00:10Z",
-          "view_count": 6461895,
+          "view_count": 6463123,
           "duration_sec": 19
         },
         {
@@ -185,7 +185,7 @@
           "channel_id": "UCeS6R89S32mSOxTNoEqrN7g",
           "thumbnail": "https://i.ytimg.com/vi/DOBZIv-TkhA/maxresdefault.jpg",
           "published_at": "2023-07-31T07:58:20Z",
-          "view_count": 5657559,
+          "view_count": 5658304,
           "duration_sec": 59
         },
         {
@@ -196,7 +196,7 @@
           "channel_id": "UCm2PiWccs-otbzhjiNXHu5g",
           "thumbnail": "https://i.ytimg.com/vi/Wb94szYmSGI/maxresdefault.jpg",
           "published_at": "2022-03-19T09:29:55Z",
-          "view_count": 5251593,
+          "view_count": 5252270,
           "duration_sec": 25
         },
         {
@@ -207,7 +207,7 @@
           "channel_id": "UC6yQArYJNJQb3PVqP5jhnAQ",
           "thumbnail": "https://i.ytimg.com/vi/ziMX1vb8cAk/maxresdefault.jpg",
           "published_at": "2023-02-03T06:00:17Z",
-          "view_count": 4855950,
+          "view_count": 4856548,
           "duration_sec": 41
         },
         {
@@ -218,7 +218,7 @@
           "channel_id": "UCsjNYWQvbzb_4z4t_sL1y6w",
           "thumbnail": "https://i.ytimg.com/vi/MyzHy06fyfM/maxresdefault.jpg",
           "published_at": "2023-08-02T13:00:24Z",
-          "view_count": 4315122,
+          "view_count": 4317563,
           "duration_sec": 48
         },
         {
@@ -229,7 +229,7 @@
           "channel_id": "UC3ZQbE9FKR8TwHYqTNcIXQQ",
           "thumbnail": "https://i.ytimg.com/vi/94LFFy4bwEM/maxresdefault.jpg",
           "published_at": "2022-05-11T08:00:25Z",
-          "view_count": 3060682,
+          "view_count": 3060775,
           "duration_sec": 48
         },
         {
@@ -240,7 +240,7 @@
           "channel_id": "UCnbQutaGtu6EOKYnwT35Etg",
           "thumbnail": "https://i.ytimg.com/vi/kudzsCc_OH4/maxresdefault.jpg",
           "published_at": "2022-11-23T12:49:13Z",
-          "view_count": 2856818,
+          "view_count": 2856980,
           "duration_sec": 37
         },
         {
@@ -251,7 +251,7 @@
           "channel_id": "UCDHIA4d_e4SOrODpU7nrVtA",
           "thumbnail": "https://i.ytimg.com/vi/ZG6O9eS0dAo/maxresdefault.jpg",
           "published_at": "2022-01-28T09:00:17Z",
-          "view_count": 2812257,
+          "view_count": 2813482,
           "duration_sec": 30
         },
         {
@@ -262,7 +262,7 @@
           "channel_id": "UCBDNEzhz537rqwtada6aBfQ",
           "thumbnail": "https://i.ytimg.com/vi/mW5CoHcIrBg/maxresdefault.jpg",
           "published_at": "2026-01-02T13:51:04Z",
-          "view_count": 5876843,
+          "view_count": 5878510,
           "duration_sec": 35
         },
         {
@@ -273,7 +273,7 @@
           "channel_id": "UC_gkwRB-p1JrOzzJk7PBKDQ",
           "thumbnail": "https://i.ytimg.com/vi/bt3Uzc6e8hM/maxresdefault.jpg",
           "published_at": "2023-08-13T10:45:01Z",
-          "view_count": 3038919,
+          "view_count": 3040975,
           "duration_sec": 25
         }
       ]
@@ -290,7 +290,7 @@
           "channel_id": "UCX0Qk4QtPOlEwBmsbIG4vOg",
           "thumbnail": "https://i.ytimg.com/vi/xgalnPF75LA/maxresdefault.jpg",
           "published_at": "2023-03-01T07:18:00Z",
-          "view_count": 9898855,
+          "view_count": 9899087,
           "duration_sec": 45
         },
         {
@@ -301,7 +301,7 @@
           "channel_id": "UCseRtCpOFnf7_R1N7gsL5wQ",
           "thumbnail": "https://i.ytimg.com/vi/_RBp5DAZBrc/maxresdefault.jpg",
           "published_at": "2025-04-07T11:03:59Z",
-          "view_count": 16268802,
+          "view_count": 16269040,
           "duration_sec": 17
         },
         {
@@ -312,7 +312,7 @@
           "channel_id": "UCX0Qk4QtPOlEwBmsbIG4vOg",
           "thumbnail": "https://i.ytimg.com/vi/i7qekwVRrOA/maxresdefault.jpg",
           "published_at": "2022-11-04T09:00:26Z",
-          "view_count": 6113098,
+          "view_count": 6113229,
           "duration_sec": 59
         },
         {
@@ -323,7 +323,7 @@
           "channel_id": "UCPPy71r5PbqqiXNSg1gHJgg",
           "thumbnail": "https://i.ytimg.com/vi/cUCL7urcGY0/maxresdefault.jpg",
           "published_at": "2024-05-31T08:20:00Z",
-          "view_count": 5782581,
+          "view_count": 5782861,
           "duration_sec": 60
         },
         {
@@ -334,7 +334,7 @@
           "channel_id": "UCX0Qk4QtPOlEwBmsbIG4vOg",
           "thumbnail": "https://i.ytimg.com/vi/eWbAZ4fPaC4/maxresdefault.jpg",
           "published_at": "2022-10-22T07:10:40Z",
-          "view_count": 5457074,
+          "view_count": 5457146,
           "duration_sec": 57
         },
         {
@@ -345,7 +345,7 @@
           "channel_id": "UCQr8QXrzpIE1yCz7l283rqQ",
           "thumbnail": "https://i.ytimg.com/vi/ePSUsWImeCw/maxresdefault.jpg",
           "published_at": "2024-05-08T10:41:08Z",
-          "view_count": 5813613,
+          "view_count": 5814428,
           "duration_sec": 40
         },
         {
@@ -356,7 +356,7 @@
           "channel_id": "UC6yQArYJNJQb3PVqP5jhnAQ",
           "thumbnail": "https://i.ytimg.com/vi/ziMX1vb8cAk/maxresdefault.jpg",
           "published_at": "2023-02-03T06:00:17Z",
-          "view_count": 4855930,
+          "view_count": 4856573,
           "duration_sec": 41
         },
         {
@@ -367,7 +367,7 @@
           "channel_id": "UCvoaqFUsRbiInhmDUfYwyqA",
           "thumbnail": "https://i.ytimg.com/vi/tAvWPbMWQSc/maxresdefault.jpg",
           "published_at": "2022-12-10T02:00:13Z",
-          "view_count": 3854636,
+          "view_count": 3854954,
           "duration_sec": 53
         },
         {
@@ -378,7 +378,7 @@
           "channel_id": "UCGN0_2kvsOwdwbJq5q3SVGQ",
           "thumbnail": "https://i.ytimg.com/vi/PTbKT2U_qqA/maxresdefault.jpg",
           "published_at": "2022-12-09T14:56:39Z",
-          "view_count": 3913558,
+          "view_count": 3929628,
           "duration_sec": 58
         },
         {
@@ -389,7 +389,7 @@
           "channel_id": "UCX0Qk4QtPOlEwBmsbIG4vOg",
           "thumbnail": "https://i.ytimg.com/vi/YlTmP-pklAk/maxresdefault.jpg",
           "published_at": "2022-10-20T14:17:05Z",
-          "view_count": 3447403,
+          "view_count": 3447490,
           "duration_sec": 59
         },
         {
@@ -400,7 +400,7 @@
           "channel_id": "UCc4cLwPVVn7i_lc2VQHDeYg",
           "thumbnail": "https://i.ytimg.com/vi/4QwFYiy3CdM/maxresdefault.jpg",
           "published_at": "2022-12-03T03:12:00Z",
-          "view_count": 2409425,
+          "view_count": 2409820,
           "duration_sec": 58
         },
         {
@@ -411,7 +411,7 @@
           "channel_id": "UCX0Qk4QtPOlEwBmsbIG4vOg",
           "thumbnail": "https://i.ytimg.com/vi/QJYtokWgIGY/maxresdefault.jpg",
           "published_at": "2024-05-03T09:00:22Z",
-          "view_count": 2176305,
+          "view_count": 2176349,
           "duration_sec": 60
         }
       ]
@@ -428,7 +428,7 @@
           "channel_id": "UCZCfcbknZ0TuEyd3WyV4eow",
           "thumbnail": "https://i.ytimg.com/vi/_RGXQ7EjMjU/maxresdefault.jpg",
           "published_at": "2024-01-10T05:09:07Z",
-          "view_count": 23698009,
+          "view_count": 23698012,
           "duration_sec": 51
         },
         {
@@ -439,7 +439,7 @@
           "channel_id": "UCJXejZ134qGzXNb8irPO9MQ",
           "thumbnail": "https://i.ytimg.com/vi/2ipr9tWxw6s/maxresdefault.jpg",
           "published_at": "2023-04-18T15:30:05Z",
-          "view_count": 7023013,
+          "view_count": 7025143,
           "duration_sec": 42
         },
         {
@@ -450,7 +450,7 @@
           "channel_id": "UCZDCtehjTG5eRBWisRvBlcg",
           "thumbnail": "https://i.ytimg.com/vi/a8VnGwbsLLc/maxresdefault.jpg",
           "published_at": "2023-05-13T21:00:00Z",
-          "view_count": 1555182,
+          "view_count": 1557999,
           "duration_sec": 19
         },
         {
@@ -483,7 +483,7 @@
           "channel_id": "UC0M1IgChQ5ZWZvllVjjL0zA",
           "thumbnail": "https://i.ytimg.com/vi/K0nUheg66Uk/maxresdefault.jpg",
           "published_at": "2026-05-10T01:53:42Z",
-          "view_count": 195247,
+          "view_count": 198482,
           "duration_sec": 38
         },
         {
@@ -494,7 +494,7 @@
           "channel_id": "UC0edBjUzVJ53rjcoJlGEUrw",
           "thumbnail": "https://i.ytimg.com/vi/F94dthfoXJ0/maxresdefault.jpg",
           "published_at": "2026-05-08T14:02:45Z",
-          "view_count": 159833,
+          "view_count": 161852,
           "duration_sec": 29
         },
         {
@@ -505,7 +505,7 @@
           "channel_id": "UCI4SKTjWgakgAr2ploDDcug",
           "thumbnail": "https://i.ytimg.com/vi/r7dmqccRw_c/maxresdefault.jpg",
           "published_at": "2026-05-07T15:51:21Z",
-          "view_count": 155908,
+          "view_count": 158475,
           "duration_sec": 55
         },
         {
@@ -516,7 +516,7 @@
           "channel_id": "UCWgXoKQ4rl7SY9UHuAwxvzQ",
           "thumbnail": "https://i.ytimg.com/vi/Hsh6nuu0ab8/maxresdefault.jpg",
           "published_at": "2024-11-01T12:54:43Z",
-          "view_count": 27036,
+          "view_count": 27037,
           "duration_sec": 40
         },
         {
@@ -549,7 +549,7 @@
           "channel_id": "UCzyr_trDhweHRnSx8wiF-AA",
           "thumbnail": "https://i.ytimg.com/vi/NgOAwBJu0LI/maxresdefault.jpg",
           "published_at": "2026-05-10T07:01:49Z",
-          "view_count": 70638,
+          "view_count": 71782,
           "duration_sec": 6
         }
       ]
@@ -566,7 +566,7 @@
           "channel_id": "UChIgH6NybaNC_mkp4-gbX3A",
           "thumbnail": "https://i.ytimg.com/vi/Iw8hgPHIuXQ/maxresdefault.jpg",
           "published_at": "2022-10-25T09:00:09Z",
-          "view_count": 55328045,
+          "view_count": 55330593,
           "duration_sec": 15
         },
         {
@@ -577,7 +577,7 @@
           "channel_id": "UCNYE6N9YZmsUyReBLzE9x9Q",
           "thumbnail": "https://i.ytimg.com/vi/A9jkqG7JKkY/maxresdefault.jpg",
           "published_at": "2024-11-25T06:00:06Z",
-          "view_count": 33311447,
+          "view_count": 33323208,
           "duration_sec": 56
         },
         {
@@ -588,7 +588,7 @@
           "channel_id": "UCL3XQXfvshedwa_j-Umx8wg",
           "thumbnail": "https://i.ytimg.com/vi/Klbwhdd5MR8/maxresdefault.jpg",
           "published_at": "2023-01-19T22:45:01Z",
-          "view_count": 19108423,
+          "view_count": 19109301,
           "duration_sec": 58
         },
         {
@@ -599,7 +599,7 @@
           "channel_id": "UCDd2WQ-qpZU-Mt9mphLQvvg",
           "thumbnail": "https://i.ytimg.com/vi/eU6VoHNUTlM/maxresdefault.jpg",
           "published_at": "2022-10-28T09:07:00Z",
-          "view_count": 17790414,
+          "view_count": 17795244,
           "duration_sec": 18
         },
         {
@@ -610,8 +610,19 @@
           "channel_id": "UC4Icothd_W0M7jRzNyAszoA",
           "thumbnail": "https://i.ytimg.com/vi/IKcrcnmNSI4/maxresdefault.jpg",
           "published_at": "2023-03-22T12:22:24Z",
-          "view_count": 16218904,
+          "view_count": 16219760,
           "duration_sec": 43
+        },
+        {
+          "id": "wJF4UfbtnUg",
+          "url": "https://www.youtube.com/shorts/wJF4UfbtnUg",
+          "title": "유명한 노포, 태양슈퍼 리뷰 #shorts",
+          "channel": "미니로운생활",
+          "channel_id": "UCy84pu9zehcKYZ40jU595aA",
+          "thumbnail": "https://i.ytimg.com/vi/wJF4UfbtnUg/maxresdefault.jpg",
+          "published_at": "2023-05-02T09:16:54Z",
+          "view_count": 13183955,
+          "duration_sec": 58
         },
         {
           "id": "QXL6aKbg4Ew",
@@ -621,7 +632,7 @@
           "channel_id": "UCW-QBEmxsme2FAONSnTjp-g",
           "thumbnail": "https://i.ytimg.com/vi/QXL6aKbg4Ew/maxresdefault.jpg",
           "published_at": "2022-01-09T08:00:53Z",
-          "view_count": 11149580,
+          "view_count": 11150338,
           "duration_sec": 56
         },
         {
@@ -632,7 +643,7 @@
           "channel_id": "UCLtKSD7xfWgnuiYYDApR3jQ",
           "thumbnail": "https://i.ytimg.com/vi/xO_Vp008JgA/maxresdefault.jpg",
           "published_at": "2025-04-26T12:02:54Z",
-          "view_count": 23573763,
+          "view_count": 23574912,
           "duration_sec": 12
         },
         {
@@ -643,7 +654,7 @@
           "channel_id": "UCNYE6N9YZmsUyReBLzE9x9Q",
           "thumbnail": "https://i.ytimg.com/vi/yo3-vyn_Hxg/maxresdefault.jpg",
           "published_at": "2024-06-12T10:12:16Z",
-          "view_count": 11041640,
+          "view_count": 11045722,
           "duration_sec": 46
         },
         {
@@ -654,7 +665,7 @@
           "channel_id": "UCa3XfT_AccZCELBLC913oEg",
           "thumbnail": "https://i.ytimg.com/vi/No_c_F20H2M/maxresdefault.jpg",
           "published_at": "2022-06-10T03:00:10Z",
-          "view_count": 7532873,
+          "view_count": 7535487,
           "duration_sec": 31
         },
         {
@@ -665,7 +676,7 @@
           "channel_id": "UCETl9S7_tJVExpGWXn3EEJQ",
           "thumbnail": "https://i.ytimg.com/vi/ERMZmnjs11I/maxresdefault.jpg",
           "published_at": "2023-02-25T10:45:00Z",
-          "view_count": 6970488,
+          "view_count": 6984763,
           "duration_sec": 21
         },
         {
@@ -676,19 +687,8 @@
           "channel_id": "UCmjjgsm51PYMPf5REDylbSA",
           "thumbnail": "https://i.ytimg.com/vi/Alqync7X-uI/maxresdefault.jpg",
           "published_at": "2023-05-22T10:51:00Z",
-          "view_count": 6209722,
+          "view_count": 6213032,
           "duration_sec": 21
-        },
-        {
-          "id": "1r4nqCejINs",
-          "url": "https://www.youtube.com/shorts/1r4nqCejINs",
-          "title": "나만 몰랐어? 일본에서 겨울에 엄!!청 많이 먹는다는 음식",
-          "channel": "이상한 과자가게  weird sweets shop",
-          "channel_id": "UCNYE6N9YZmsUyReBLzE9x9Q",
-          "thumbnail": "https://i.ytimg.com/vi/1r4nqCejINs/maxresdefault.jpg",
-          "published_at": "2024-01-25T09:07:29Z",
-          "view_count": 5896416,
-          "duration_sec": 51
         }
       ]
     },
@@ -704,7 +704,7 @@
           "channel_id": "UCX0Qk4QtPOlEwBmsbIG4vOg",
           "thumbnail": "https://i.ytimg.com/vi/pYcEPHrXsXc/maxresdefault.jpg",
           "published_at": "2022-12-19T13:46:00Z",
-          "view_count": 1383611,
+          "view_count": 1383648,
           "duration_sec": 50
         },
         {
@@ -715,7 +715,7 @@
           "channel_id": "UCseRtCpOFnf7_R1N7gsL5wQ",
           "thumbnail": "https://i.ytimg.com/vi/Z7MZjPWch-0/maxresdefault.jpg",
           "published_at": "2025-05-08T11:06:04Z",
-          "view_count": 1091124,
+          "view_count": 1091656,
           "duration_sec": 21
         },
         {
@@ -726,7 +726,7 @@
           "channel_id": "UCseRtCpOFnf7_R1N7gsL5wQ",
           "thumbnail": "https://i.ytimg.com/vi/qQPol723VwU/maxresdefault.jpg",
           "published_at": "2025-06-02T11:24:31Z",
-          "view_count": 187613,
+          "view_count": 188171,
           "duration_sec": 17
         },
         {
@@ -737,7 +737,7 @@
           "channel_id": "UCsjNYWQvbzb_4z4t_sL1y6w",
           "thumbnail": "https://i.ytimg.com/vi/uMqs5-hJQyI/maxresdefault.jpg",
           "published_at": "2023-07-14T13:16:42Z",
-          "view_count": 73286,
+          "view_count": 73388,
           "duration_sec": 37
         },
         {
@@ -748,7 +748,7 @@
           "channel_id": "UC7m9K8lcptwUpt9UoNh5Xgg",
           "thumbnail": "https://i.ytimg.com/vi/NEu6N-Sgl7g/maxresdefault.jpg",
           "published_at": "2021-12-27T11:17:03Z",
-          "view_count": 27261,
+          "view_count": 27263,
           "duration_sec": 42
         },
         {
@@ -759,7 +759,7 @@
           "channel_id": "UCvoaqFUsRbiInhmDUfYwyqA",
           "thumbnail": "https://i.ytimg.com/vi/-Rn4UO2bDcg/maxresdefault.jpg",
           "published_at": "2023-11-15T08:36:56Z",
-          "view_count": 25800,
+          "view_count": 25799,
           "duration_sec": 42
         },
         {
@@ -770,7 +770,7 @@
           "channel_id": "UCtyPy6b74VOZUMCYpmxozmg",
           "thumbnail": "https://i.ytimg.com/vi/xYTNOOteXPo/maxresdefault.jpg",
           "published_at": "2024-02-28T12:56:04Z",
-          "view_count": 13268,
+          "view_count": 13270,
           "duration_sec": 41
         },
         {
@@ -781,8 +781,19 @@
           "channel_id": "UCvhOV386aHIIWRCtc4sHzwg",
           "thumbnail": "https://i.ytimg.com/vi/YR77CigkEsE/maxresdefault.jpg",
           "published_at": "2026-05-08T10:00:54Z",
-          "view_count": 15289,
+          "view_count": 15337,
           "duration_sec": 33
+        },
+        {
+          "id": "XgrHtLegycU",
+          "url": "https://www.youtube.com/shorts/XgrHtLegycU",
+          "title": "손 안 대고 쇼츠 보는 방법",
+          "channel": "조이뷰 JoyView",
+          "channel_id": "UCKA6a0ybaVIBGPbcJU_Fylg",
+          "thumbnail": "https://i.ytimg.com/vi/XgrHtLegycU/maxresdefault.jpg",
+          "published_at": "2023-04-11T09:44:52Z",
+          "view_count": 7241,
+          "duration_sec": 22
         },
         {
           "id": "i6-I6AVI8ZE",
@@ -814,19 +825,8 @@
           "channel_id": "UCF024e2NbpmOHNVjEbCZXaQ",
           "thumbnail": "https://i.ytimg.com/vi/GkHTxBqykmE/maxresdefault.jpg",
           "published_at": "2023-10-13T00:09:56Z",
-          "view_count": 3380,
+          "view_count": 3381,
           "duration_sec": 54
-        },
-        {
-          "id": "kq74v4di3AQ",
-          "url": "https://www.youtube.com/shorts/kq74v4di3AQ",
-          "title": "아즈라 크리스탈(스탠다드, 에어팟 프로) 리뷰🔥  #shorts #쇼츠 #숏츠 #아즈라 #이어팁 #이어폰 #이어폰추천 #줄이어폰 #비교 #리뷰 #소니 #WF1000XM5",
-          "channel": "AZLA Official",
-          "channel_id": "UCF024e2NbpmOHNVjEbCZXaQ",
-          "thumbnail": "https://i.ytimg.com/vi/kq74v4di3AQ/maxresdefault.jpg",
-          "published_at": "2023-10-17T00:15:20Z",
-          "view_count": 1556,
-          "duration_sec": 60
         }
       ]
     }
