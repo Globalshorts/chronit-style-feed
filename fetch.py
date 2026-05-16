@@ -1,9 +1,12 @@
-"""Daily YouTube Shorts feed builder.
+"""Daily YouTube Shorts feed builder — 8 카테고리 × 5 키워드.
 
 GitHub Actions 가 매일 KST 00시 (UTC 15:00) 에 실행:
-1. 5개 카테고리 검색 → 각 12개 쇼츠 수집
-2. data/feed.json 으로 저장
-3. workflow 가 git commit
+    1. 8 카테고리 × 5 키워드 = 40개 검색 → 각 8개 쇼츠 수집 (총 320개)
+    2. data/feed.json 으로 저장
+    3. workflow 가 git commit
+
+API 사용량:
+    40 search × 100 units + 40 videos × 1 unit = 4,040 / 10,000 units/일
 
 환경변수:
     YOUTUBE_API_KEY — GitHub Secrets 에서 주입
@@ -15,6 +18,7 @@ import json
 import os
 import re
 import sys
+import time
 import urllib.parse
 import urllib.request
 from pathlib import Path
@@ -22,12 +26,94 @@ from pathlib import Path
 API_BASE = "https://www.googleapis.com/youtube/v3"
 
 CATEGORIES = [
-    {"key": "trending", "label": "🔥 인기 쇼츠", "query": "쇼츠 트렌드 #shorts"},
-    {"key": "tips", "label": "꿀팁", "query": "쇼츠 꿀팁 #shorts"},
-    {"key": "product", "label": "제품 리뷰", "query": "쇼츠 제품 리뷰 #shorts"},
-    {"key": "lifestyle", "label": "라이프스타일", "query": "쇼츠 라이프스타일 #shorts"},
-    {"key": "food", "label": "푸드/요리", "query": "쇼츠 요리 #shorts"},
-    {"key": "tech", "label": "테크/IT", "query": "쇼츠 테크 리뷰 #shorts"},
+    {
+        "key": "home",
+        "label": "🛋 가구·홈스타일링",
+        "queries": [
+            "쿠팡 자취방 꾸미기 필수템",
+            "오늘의집 인기 인테리어 소품",
+            "옷장 수납 정리 꿀템",
+            "가성비 원룸 가구 추천",
+            "삶의 질 상승 홈스타일링",
+        ],
+    },
+    {
+        "key": "kitchen",
+        "label": "🍳 소형가전·주방가전",
+        "queries": [
+            "쿠팡 주방 꿀템 추천",
+            "다이소 자취 가전 리뷰",
+            "삶의 질 수직상승 가전",
+            "가성비 미니 가전제품",
+            "무선 가전 필수템 리뷰",
+        ],
+    },
+    {
+        "key": "living",
+        "label": "🧴 생활·욕실용품",
+        "queries": [
+            "다이소 청소 꿀템 추천",
+            "쿠팡 욕실 필수템 리뷰",
+            "자취생 생활용품 추천",
+            "삶의 질 상승 욕실템",
+            "안 쓰면 손해인 살림템",
+        ],
+    },
+    {
+        "key": "car",
+        "label": "🚗 차량용품·자동차",
+        "queries": [
+            "쿠팡 차량용품 추천",
+            "자동차 삶의 질 상승",
+            "운전 필수템",
+            "자동차 꿀템",
+            "차에 두면 무조건 좋은",
+        ],
+    },
+    {
+        "key": "pet",
+        "label": "🐶 반려동물 케어",
+        "queries": [
+            "쿠팡 강아지 필수템 추천",
+            "고양이 집사 꿀템 리뷰",
+            "반려견 삶의 질 상승템",
+            "가성비 애완용품 추천",
+            "반려동물 추천템",
+        ],
+    },
+    {
+        "key": "camping",
+        "label": "⛺ 캠핑·아웃도어",
+        "queries": [
+            "쿠팡 캠핑 꿀템 추천",
+            "가성비 캠핑 장비 리뷰",
+            "캠핑 필수템 추천",
+            "감성 캠핑 용품 추천",
+            "차박 필수템",
+        ],
+    },
+    {
+        "key": "fitness",
+        "label": "💪 운동·홈트레이닝",
+        "queries": [
+            "다이소 홈트 꿀템",
+            "쿠팡 운동기구 추천",
+            "홈트레이닝 필수템",
+            "다이어트 추천템",
+            "삶의 질 상승 운동용품",
+        ],
+    },
+    {
+        "key": "food",
+        "label": "🍱 가공식품·밀키트",
+        "queries": [
+            "쿠팡 프레시 추천템",
+            "가성비 밀키트 추천",
+            "자취생 냉동식품 추천",
+            "쟁여두면 좋은 먹거리",
+            "쿠팡 대용량 가공식품",
+        ],
+    },
 ]
 
 
@@ -43,7 +129,7 @@ def now_kst_iso() -> str:
 
 def http_get_json(url: str, timeout: int = 20) -> dict:
     req = urllib.request.Request(
-        url, headers={"User-Agent": "Chronit-StyleFeed/1.0"},
+        url, headers={"User-Agent": "Chronit-StyleFeed/2.0"},
     )
     with urllib.request.urlopen(req, timeout=timeout) as r:
         return json.loads(r.read().decode("utf-8"))
@@ -56,7 +142,7 @@ def parse_duration(iso: str) -> int:
     return int(m.group(1) or 0) * 60 + int(m.group(2) or 0)
 
 
-def api_search(query: str, api_key: str, max_results: int = 15) -> list:
+def api_search(query: str, api_key: str, max_results: int = 12) -> list:
     params = {
         "part": "snippet",
         "q": query,
@@ -87,8 +173,9 @@ def api_videos_detail(video_ids: list, api_key: str) -> dict:
     return {it["id"]: it for it in (data.get("items") or []) if it.get("id")}
 
 
-def fetch_category(query: str, api_key: str, max_results: int = 12) -> list:
-    search_items = api_search(query, api_key, max_results=15)
+def fetch_keyword(query: str, api_key: str, max_results: int = 8) -> list:
+    """단일 키워드 → 쇼츠 list."""
+    search_items = api_search(query, api_key, max_results=12)
     if not search_items:
         return []
     ids = [it["id"]["videoId"] for it in search_items]
@@ -126,43 +213,42 @@ def fetch_category(query: str, api_key: str, max_results: int = 12) -> list:
 def main():
     api_key = os.environ.get("YOUTUBE_API_KEY", "").strip()
     if not api_key:
-        print("ERROR: YOUTUBE_API_KEY 환경변수가 비어있음", file=sys.stderr)
+        print("[X] YOUTUBE_API_KEY 환경변수 없음", file=sys.stderr)
         sys.exit(1)
 
-    print(f"[fetch] 날짜 (KST): {today_kst()}")
     feed = {
         "updated_at": now_kst_iso(),
         "date": today_kst(),
         "categories": {},
     }
-    for cat in CATEGORIES:
-        print(f"[fetch] {cat['key']:>10} ← {cat['query']}")
-        try:
-            items = fetch_category(cat["query"], api_key)
-            feed["categories"][cat["key"]] = {
-                "label": cat["label"],
-                "query": cat["query"],
-                "items": items,
-            }
-            print(f"           → {len(items)}개")
-        except Exception as e:
-            print(f"           ERROR: {e}", file=sys.stderr)
-            feed["categories"][cat["key"]] = {
-                "label": cat["label"],
-                "query": cat["query"],
-                "items": [],
-                "error": str(e),
-            }
 
-    out = Path(__file__).parent / "data" / "feed.json"
+    total_items = 0
+    api_calls = 0
+    for cat in CATEGORIES:
+        cat_data = {"label": cat["label"], "keywords": {}}
+        for q in cat["queries"]:
+            try:
+                items = fetch_keyword(q, api_key, max_results=8)
+                cat_data["keywords"][q] = items
+                total_items += len(items)
+                api_calls += 2  # search + videos
+                print(f"[OK] {cat['key']:>8} · '{q}': {len(items)}개")
+                time.sleep(0.3)  # rate limit 여유
+            except Exception as e:
+                print(f"[X] {cat['key']} · '{q}' 실패: {e}",
+                      file=sys.stderr)
+                cat_data["keywords"][q] = []
+        feed["categories"][cat["key"]] = cat_data
+
+    out = Path("data/feed.json")
     out.parent.mkdir(parents=True, exist_ok=True)
     out.write_text(
         json.dumps(feed, ensure_ascii=False, indent=2),
         encoding="utf-8",
     )
-    total = sum(len(c.get("items") or [])
-                for c in feed["categories"].values())
-    print(f"[fetch] 완료: 총 {total}개 → {out}")
+    print(f"\n✓ 완료 — {len(CATEGORIES)} 카테고리, {total_items} 영상")
+    print(f"  API 호출: {api_calls}회 (~{api_calls * 50} units)")
+    print(f"  파일: {out} ({out.stat().st_size:,} bytes)")
 
 
 if __name__ == "__main__":
