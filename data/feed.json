@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-10T02:20:41+09:00",
+  "updated_at": "2026-06-10T02:21:49+09:00",
   "date": "2026-06-10",
   "categories": {
     "home": {
@@ -58,7 +58,7 @@
             "channel_id": "UCpANROseo-Ydh7zIhkKZedQ",
             "thumbnail": "https://i.ytimg.com/vi/J1PO5aVgp6M/maxresdefault.jpg",
             "published_at": "2025-01-11T23:00:15Z",
-            "view_count": 1273818,
+            "view_count": 1273820,
             "duration_sec": 15
           },
           {
@@ -69,7 +69,7 @@
             "channel_id": "UCkEWsTetbUuGDg_O1S5UVBg",
             "thumbnail": "https://i.ytimg.com/vi/fVb2i8Z1YPU/maxresdefault.jpg",
             "published_at": "2024-06-26T02:02:00Z",
-            "view_count": 1341113,
+            "view_count": 1340966,
             "duration_sec": 23
           },
           {
@@ -80,7 +80,7 @@
             "channel_id": "UCIm68umKEkiDhmRNF0CryOQ",
             "thumbnail": "https://i.ytimg.com/vi/rWFpojan6GM/maxresdefault.jpg",
             "published_at": "2025-06-01T14:45:27Z",
-            "view_count": 2470410,
+            "view_count": 2470404,
             "duration_sec": 21
           },
           {
@@ -91,7 +91,7 @@
             "channel_id": "UChdvf2uEGahgQvDyarQBeIA",
             "thumbnail": "https://i.ytimg.com/vi/DaeSdew8GII/maxresdefault.jpg",
             "published_at": "2025-06-23T09:28:56Z",
-            "view_count": 2082290,
+            "view_count": 2082244,
             "duration_sec": 36
           }
         ],
@@ -104,7 +104,7 @@
             "channel_id": "UCOKj6kLGSyI1XaOO00TaipA",
             "thumbnail": "https://i.ytimg.com/vi/XNJnRifzH88/maxresdefault.jpg",
             "published_at": "2024-07-14T08:41:36Z",
-            "view_count": 495526,
+            "view_count": 495516,
             "duration_sec": 59
           },
           {
@@ -115,7 +115,7 @@
             "channel_id": "UCiIkbHb3fuS3raYybl775jA",
             "thumbnail": "https://i.ytimg.com/vi/dQUDioVDTLA/maxresdefault.jpg",
             "published_at": "2025-03-04T02:55:56Z",
-            "view_count": 496532,
+            "view_count": 496578,
             "duration_sec": 14
           },
           {
@@ -126,7 +126,7 @@
             "channel_id": "UCiIkbHb3fuS3raYybl775jA",
             "thumbnail": "https://i.ytimg.com/vi/BP8NJ_JAheY/maxresdefault.jpg",
             "published_at": "2025-02-27T02:56:54Z",
-            "view_count": 228779,
+            "view_count": 228787,
             "duration_sec": 11
           },
           {
@@ -148,7 +148,7 @@
             "channel_id": "UCiIkbHb3fuS3raYybl775jA",
             "thumbnail": "https://i.ytimg.com/vi/yvNQ5A88Obo/maxresdefault.jpg",
             "published_at": "2025-04-04T06:02:04Z",
-            "view_count": 394301,
+            "view_count": 394306,
             "duration_sec": 13
           },
           {
@@ -170,7 +170,7 @@
             "channel_id": "UCBziXRq-krfELaQgAkSiTqQ",
             "thumbnail": "https://i.ytimg.com/vi/CJ4NUbSfekY/maxresdefault.jpg",
             "published_at": "2025-05-15T08:37:07Z",
-            "view_count": 190567,
+            "view_count": 190543,
             "duration_sec": 30
           },
           {
@@ -187,6 +187,17 @@
         ],
         "옷장 수납 정리 꿀템": [
           {
+            "id": "Lkg2oGoW-po",
+            "url": "https://www.youtube.com/shorts/Lkg2oGoW-po",
+            "title": "한번 입은 옷 정리 #shorts #옷장정리 #애매한옷정리 #정리정돈 #정리팁 #수납팁",
+            "channel": "플랜홈",
+            "channel_id": "UCo7KTshggQ2LKrlb-ixcKmg",
+            "thumbnail": "https://i.ytimg.com/vi/Lkg2oGoW-po/maxresdefault.jpg",
+            "published_at": "2023-10-05T14:50:54Z",
+            "view_count": 2539778,
+            "duration_sec": 42
+          },
+          {
             "id": "wHCHScoRl4k",
             "url": "https://www.youtube.com/shorts/wHCHScoRl4k",
             "title": "다이소에서 품절된 7가지! #살림스타그램 #다이소 #살림초보 #살림남 #꿀템 #정리정돈 #인테리어 #주부9단",
@@ -198,81 +209,70 @@
             "duration_sec": 29
           },
           {
-            "id": "rWFpojan6GM",
-            "url": "https://www.youtube.com/shorts/rWFpojan6GM",
-            "title": "다이소 2000원 템으로 이걸? 신박한 수납정리 DIY",
+            "id": "GsyZegvBXrY",
+            "url": "https://www.youtube.com/shorts/GsyZegvBXrY",
+            "title": "옷장정리 끝장내는 다이소 꿀템#shots",
+            "channel": "팁끌모아살림",
+            "channel_id": "UC_KBVQUwgmE-RIA9Bb1UxqQ",
+            "thumbnail": "https://i.ytimg.com/vi/GsyZegvBXrY/maxresdefault.jpg",
+            "published_at": "2023-05-07T12:02:54Z",
+            "view_count": 1776508,
+            "duration_sec": 51
+          },
+          {
+            "id": "7n5R8hnCHyk",
+            "url": "https://www.youtube.com/shorts/7n5R8hnCHyk",
+            "title": "주방정리 이대로만 하세요! 깔끔 공간활용 끝판왕✨️",
             "channel": "별주부",
             "channel_id": "UCIm68umKEkiDhmRNF0CryOQ",
-            "thumbnail": "https://i.ytimg.com/vi/rWFpojan6GM/maxresdefault.jpg",
-            "published_at": "2025-06-01T14:45:27Z",
-            "view_count": 2470410,
-            "duration_sec": 21
+            "thumbnail": "https://i.ytimg.com/vi/7n5R8hnCHyk/maxresdefault.jpg",
+            "published_at": "2025-04-15T13:19:35Z",
+            "view_count": 3130500,
+            "duration_sec": 37
           },
           {
-            "id": "nccy_8b6cGM",
-            "url": "https://www.youtube.com/shorts/nccy_8b6cGM",
-            "title": "옷장 정리 수납템 3가지 살림템 추천#살림템#살림팁#주부#살림 #수납 #정리 #organizer #living",
-            "channel": "살림을더하다",
-            "channel_id": "UC456VymJ1QlRZTC5sz3PKzg",
-            "thumbnail": "https://i.ytimg.com/vi/nccy_8b6cGM/maxresdefault.jpg",
-            "published_at": "2024-07-25T09:04:23Z",
-            "view_count": 1360929,
-            "duration_sec": 12
+            "id": "ywqYaNfzKVE",
+            "url": "https://www.youtube.com/shorts/ywqYaNfzKVE",
+            "title": "옷장 정리",
+            "channel": "제주가장(家長)",
+            "channel_id": "UCXe0z0je45VmqE0JfanwNnw",
+            "thumbnail": "https://i.ytimg.com/vi/ywqYaNfzKVE/maxresdefault.jpg",
+            "published_at": "2024-08-06T22:00:39Z",
+            "view_count": 1651150,
+            "duration_sec": 57
           },
           {
-            "id": "sRxToykjkcI",
-            "url": "https://www.youtube.com/shorts/sRxToykjkcI",
-            "title": "다이소가 다이소한 찐추천템 수납함 활용능력 높여주는 추천템 #다이소 #다이소살림템  #수납함 #슬라이딩수납",
-            "channel": "오후하우스",
-            "channel_id": "UCFUrxZAhg1FIK0l4hjLHAOQ",
-            "thumbnail": "https://i.ytimg.com/vi/sRxToykjkcI/maxresdefault.jpg",
-            "published_at": "2025-09-02T00:49:14Z",
-            "view_count": 1581949,
-            "duration_sec": 21
-          },
-          {
-            "id": "LX5ychVvrls",
-            "url": "https://www.youtube.com/shorts/LX5ychVvrls",
-            "title": "다이소 옷정리 수납함 이건 몰랐네! 살림팁 #다이소추천템 #다이소살림템 #daisohaul",
-            "channel": "토끼프리",
-            "channel_id": "UCQyacg16p2uY41b_GHwPVnA",
-            "thumbnail": "https://i.ytimg.com/vi/LX5ychVvrls/maxresdefault.jpg",
-            "published_at": "2023-10-11T02:54:25Z",
-            "view_count": 876533,
-            "duration_sec": 29
-          },
-          {
-            "id": "7WbYqB3FPL8",
-            "url": "https://www.youtube.com/shorts/7WbYqB3FPL8",
-            "title": "단 1번의 정리로 1년 내내 유지하는 지속 가능한 옷정리_ #옷정리#정리브이로그#살림브이로그#정리팁#정리템#정리꿀팁#정리정돈",
-            "channel": "희치홈",
-            "channel_id": "UCj_tzMKNDtJaPON9t-pkTGw",
-            "thumbnail": "https://i.ytimg.com/vi/7WbYqB3FPL8/maxresdefault.jpg",
-            "published_at": "2025-10-01T14:04:11Z",
-            "view_count": 1505397,
-            "duration_sec": 50
-          },
-          {
-            "id": "vSea_WJraEM",
-            "url": "https://www.youtube.com/shorts/vSea_WJraEM",
-            "title": "좁은 옷장 2배로 넓게쓰는 꿀팁🌟",
+            "id": "h2eiKbE5Moo",
+            "url": "https://www.youtube.com/shorts/h2eiKbE5Moo",
+            "title": "이렇게 꾸며보세요🌟좁은 방 이케아로 대변신",
             "channel": "별주부",
             "channel_id": "UCIm68umKEkiDhmRNF0CryOQ",
-            "thumbnail": "https://i.ytimg.com/vi/vSea_WJraEM/maxresdefault.jpg",
-            "published_at": "2025-04-27T05:33:44Z",
-            "view_count": 1612257,
+            "thumbnail": "https://i.ytimg.com/vi/h2eiKbE5Moo/maxresdefault.jpg",
+            "published_at": "2025-05-10T12:12:31Z",
+            "view_count": 2607959,
             "duration_sec": 31
           },
           {
-            "id": "uzxBherYI_E",
-            "url": "https://www.youtube.com/shorts/uzxBherYI_E",
-            "title": "옷장정리 꿀팁 다이소 브이로그 노하우 수납 정리법 정리템 옷걸이",
-            "channel": "리을하우스 살림",
-            "channel_id": "UCoL2nfZ0lWguURQfWOwOo3Q",
-            "thumbnail": "https://i.ytimg.com/vi/uzxBherYI_E/maxresdefault.jpg",
-            "published_at": "2024-05-30T11:38:18Z",
-            "view_count": 703308,
-            "duration_sec": 56
+            "id": "tLpQ-MhlQ6o",
+            "url": "https://www.youtube.com/shorts/tLpQ-MhlQ6o",
+            "title": "양말정리 어렵다면 이거 추천👍 #창신리빙 #내돈내산리뷰",
+            "channel": "까사드제리 casa de jerry",
+            "channel_id": "UCS90dGmf2NC3SZ04VhZUtvw",
+            "thumbnail": "https://i.ytimg.com/vi/tLpQ-MhlQ6o/maxresdefault.jpg",
+            "published_at": "2023-05-17T08:04:09Z",
+            "view_count": 1272490,
+            "duration_sec": 26
+          },
+          {
+            "id": "3Vrp-5gKIcI",
+            "url": "https://www.youtube.com/shorts/3Vrp-5gKIcI",
+            "title": "다이소수납함으로 욕실장정리 이렇게 해보세요#다이소꿀템 #다이소#다이소추천템 #생활팁 #살림팁 #정리템 #수납정리 #수납#수납공간 #수납장정리#욕실장정리#자이소부착식서랍#수납장정리",
+            "channel": "살구홈",
+            "channel_id": "UCQDEukZSlzU4ivoYNAeGYKw",
+            "thumbnail": "https://i.ytimg.com/vi/3Vrp-5gKIcI/maxresdefault.jpg",
+            "published_at": "2024-03-03T01:31:33Z",
+            "view_count": 1387444,
+            "duration_sec": 48
           }
         ],
         "가성비 원룸 가구 추천": [
@@ -284,7 +284,7 @@
             "channel_id": "UCqBzz0HqzH8xi-tBe68Dkew",
             "thumbnail": "https://i.ytimg.com/vi/DkRvqSugukA/maxresdefault.jpg",
             "published_at": "2025-03-05T08:47:31Z",
-            "view_count": 10990741,
+            "view_count": 10990774,
             "duration_sec": 19
           },
           {
@@ -295,7 +295,7 @@
             "channel_id": "UCqBzz0HqzH8xi-tBe68Dkew",
             "thumbnail": "https://i.ytimg.com/vi/oXw_uC6wZTI/maxresdefault.jpg",
             "published_at": "2025-05-28T06:47:03Z",
-            "view_count": 7421511,
+            "view_count": 7421482,
             "duration_sec": 16
           },
           {
@@ -306,7 +306,7 @@
             "channel_id": "UCLqX6D0cDWGqMWToI4MZGDQ",
             "thumbnail": "https://i.ytimg.com/vi/1GX6w3Cynvw/maxresdefault.jpg",
             "published_at": "2023-10-25T09:24:53Z",
-            "view_count": 2826543,
+            "view_count": 2826531,
             "duration_sec": 60
           },
           {
@@ -317,7 +317,7 @@
             "channel_id": "UC7R8SwRngGEs0zt3Xl-Xpug",
             "thumbnail": "https://i.ytimg.com/vi/R4t5M2ES45k/maxresdefault.jpg",
             "published_at": "2023-02-28T15:31:56Z",
-            "view_count": 2500496,
+            "view_count": 2500471,
             "duration_sec": 31
           },
           {
@@ -339,7 +339,7 @@
             "channel_id": "UCt7WwR9eZKvp12PQk4O5jNw",
             "thumbnail": "https://i.ytimg.com/vi/FLn7TLV50LE/maxresdefault.jpg",
             "published_at": "2023-03-13T13:04:03Z",
-            "view_count": 2471975,
+            "view_count": 2471938,
             "duration_sec": 18
           },
           {
@@ -361,7 +361,7 @@
             "channel_id": "UCXw58x86cQbgIn5fzBqnc2Q",
             "thumbnail": "https://i.ytimg.com/vi/BiE1hvdqfxQ/maxresdefault.jpg",
             "published_at": "2025-02-21T09:15:01Z",
-            "view_count": 3694525,
+            "view_count": 3694531,
             "duration_sec": 37
           }
         ],
@@ -469,7 +469,7 @@
             "channel_id": "UChdvf2uEGahgQvDyarQBeIA",
             "thumbnail": "https://i.ytimg.com/vi/3VXQp2vmN48/maxresdefault.jpg",
             "published_at": "2025-04-25T08:47:37Z",
-            "view_count": 7661110,
+            "view_count": 7661148,
             "duration_sec": 32
           },
           {
@@ -491,7 +491,7 @@
             "channel_id": "UCGw1DUgI4zrjujJPh5zt-Tw",
             "thumbnail": "https://i.ytimg.com/vi/2zitp1MaYSQ/maxresdefault.jpg",
             "published_at": "2024-08-19T11:00:03Z",
-            "view_count": 2086411,
+            "view_count": 2086415,
             "duration_sec": 43
           },
           {
@@ -502,7 +502,7 @@
             "channel_id": "UCXSraaQh2mkgdOvdygBfNFw",
             "thumbnail": "https://i.ytimg.com/vi/f0HM746a6B4/maxresdefault.jpg",
             "published_at": "2025-06-16T10:01:07Z",
-            "view_count": 3540406,
+            "view_count": 3540416,
             "duration_sec": 60
           },
           {
@@ -513,7 +513,7 @@
             "channel_id": "UCqaJIIqtsAsYdcB6qTK477A",
             "thumbnail": "https://i.ytimg.com/vi/SDMl3N9t9cg/maxresdefault.jpg",
             "published_at": "2025-08-25T16:11:30Z",
-            "view_count": 3213597,
+            "view_count": 3213598,
             "duration_sec": 33
           },
           {
@@ -559,7 +559,7 @@
             "channel_id": "UCTR8olTLg8LBfTgVwt-6icQ",
             "thumbnail": "https://i.ytimg.com/vi/3W0odU4bufY/maxresdefault.jpg",
             "published_at": "2025-07-23T12:02:23Z",
-            "view_count": 9514490,
+            "view_count": 9514487,
             "duration_sec": 51
           },
           {
@@ -570,7 +570,7 @@
             "channel_id": "UCFmWS6ExbVnYPYA05JX_LnQ",
             "thumbnail": "https://i.ytimg.com/vi/-MKcbVZES1Q/maxresdefault.jpg",
             "published_at": "2024-12-21T05:13:24Z",
-            "view_count": 6206425,
+            "view_count": 6206429,
             "duration_sec": 57
           },
           {
@@ -603,7 +603,7 @@
             "channel_id": "UCqf-sIfY4zJgzoqS9G1St4g",
             "thumbnail": "https://i.ytimg.com/vi/OI_Q4ARfTtY/maxresdefault.jpg",
             "published_at": "2023-02-23T12:00:23Z",
-            "view_count": 1238527,
+            "view_count": 1238532,
             "duration_sec": 60
           },
           {
@@ -625,7 +625,7 @@
             "channel_id": "UCLz0eupE7mCYgoRwcXkMhYA",
             "thumbnail": "https://i.ytimg.com/vi/YlSJIzGxqPo/maxresdefault.jpg",
             "published_at": "2023-02-10T02:22:46Z",
-            "view_count": 1164716,
+            "view_count": 1164714,
             "duration_sec": 29
           },
           {
@@ -715,7 +715,7 @@
             "channel_id": "UCY9-fwRmV8XFqbY-npsHB3A",
             "thumbnail": "https://i.ytimg.com/vi/e7ynKtv8wI4/maxresdefault.jpg",
             "published_at": "2025-07-31T10:01:07Z",
-            "view_count": 340901,
+            "view_count": 340905,
             "duration_sec": 52
           },
           {
@@ -726,11 +726,100 @@
             "channel_id": "UCHDoSsAuTymqINcnxpqXc5w",
             "thumbnail": "https://i.ytimg.com/vi/ZYncbwPiows/maxresdefault.jpg",
             "published_at": "2026-03-07T06:52:02Z",
-            "view_count": 282823,
+            "view_count": 282828,
             "duration_sec": 60
           }
         ],
-        "가성비 미니 가전제품": [],
+        "가성비 미니 가전제품": [
+          {
+            "id": "-ZTc3mqcnYk",
+            "url": "https://www.youtube.com/shorts/-ZTc3mqcnYk",
+            "title": "테무 쇼핑 전 이 영상은 꼭 보세요...",
+            "channel": "디에디트 THE EDIT",
+            "channel_id": "UCJKZoVf3RIMfFffjdseqdEg",
+            "thumbnail": "https://i.ytimg.com/vi/-ZTc3mqcnYk/maxresdefault.jpg",
+            "published_at": "2024-03-25T10:36:00Z",
+            "view_count": 2848596,
+            "duration_sec": 49
+          },
+          {
+            "id": "D8UY0wiHXUY",
+            "url": "https://www.youtube.com/shorts/D8UY0wiHXUY",
+            "title": "쿠팡에서 이건 꼭 사세요!! 가성비 장마 꿀템 #내돈내산",
+            "channel": "리뷰한다 송미니",
+            "channel_id": "UCk-Y9lv2UGfTfkfNw0j3WPQ",
+            "thumbnail": "https://i.ytimg.com/vi/D8UY0wiHXUY/maxresdefault.jpg",
+            "published_at": "2024-07-04T09:30:03Z",
+            "view_count": 2006470,
+            "duration_sec": 47
+          },
+          {
+            "id": "u6qwyLcktk8",
+            "url": "https://www.youtube.com/shorts/u6qwyLcktk8",
+            "title": "쿠팡으로 혼수 장만한 신혼부부🏡",
+            "channel": "ggulmatsalim",
+            "channel_id": "UCeJGO07aSJVhkWORRO3sccg",
+            "thumbnail": "https://i.ytimg.com/vi/u6qwyLcktk8/maxresdefault.jpg",
+            "published_at": "2025-03-14T10:44:09Z",
+            "view_count": 1701743,
+            "duration_sec": 36
+          },
+          {
+            "id": "bxKR_ERBOy8",
+            "url": "https://www.youtube.com/shorts/bxKR_ERBOy8",
+            "title": "역시 정리는 다이소가 최고더라고요? 가성비 다이소 정리함만한게 없죠👍🏻 다이소 신상정리함 추천❤️#다이소추천템",
+            "channel": "블루밍나나 Bloomingnana",
+            "channel_id": "UCwfipXEUgyhWaTNVYzp-gJA",
+            "thumbnail": "https://i.ytimg.com/vi/bxKR_ERBOy8/maxresdefault.jpg",
+            "published_at": "2025-06-23T02:00:02Z",
+            "view_count": 1406208,
+            "duration_sec": 39
+          },
+          {
+            "id": "zHDXhtUdrv4",
+            "url": "https://www.youtube.com/shorts/zHDXhtUdrv4",
+            "title": "자취생 전용 소형 가전 브랜드 총정리",
+            "channel": "원룸만들기",
+            "channel_id": "UCLqX6D0cDWGqMWToI4MZGDQ",
+            "thumbnail": "https://i.ytimg.com/vi/zHDXhtUdrv4/maxresdefault.jpg",
+            "published_at": "2024-04-02T12:06:16Z",
+            "view_count": 391986,
+            "duration_sec": 60
+          },
+          {
+            "id": "OL4s3yLk9sg",
+            "url": "https://www.youtube.com/shorts/OL4s3yLk9sg",
+            "title": "쿠팡에서 많이 팔린 소형가전 3가지🔥",
+            "channel": "오후살림",
+            "channel_id": "UC999VUMvFZAe_Yt2WoUxJZA",
+            "thumbnail": "https://i.ytimg.com/vi/OL4s3yLk9sg/maxresdefault.jpg",
+            "published_at": "2024-09-07T11:32:06Z",
+            "view_count": 380999,
+            "duration_sec": 50
+          },
+          {
+            "id": "COUcOvr26Pw",
+            "url": "https://www.youtube.com/shorts/COUcOvr26Pw",
+            "title": "신혼부부 딱! 신박한 소형가전",
+            "channel": "소개팁 IntroTip",
+            "channel_id": "UC3CELODQnl5pGSWyS3OmMOA",
+            "thumbnail": "https://i.ytimg.com/vi/COUcOvr26Pw/maxresdefault.jpg",
+            "published_at": "2025-04-02T10:37:09Z",
+            "view_count": 683542,
+            "duration_sec": 42
+          },
+          {
+            "id": "V1A2qHBlgp8",
+            "url": "https://www.youtube.com/shorts/V1A2qHBlgp8",
+            "title": "1n년차 자취생의 후회없는 가전제품 꿀템 3가지 모음.zip",
+            "channel": "살림토끼",
+            "channel_id": "UCwFNiYnTtrYuwO7YRWomatw",
+            "thumbnail": "https://i.ytimg.com/vi/V1A2qHBlgp8/maxresdefault.jpg",
+            "published_at": "2025-02-01T12:39:00Z",
+            "view_count": 288248,
+            "duration_sec": 56
+          }
+        ],
         "무선 가전 필수템 리뷰": [
           {
             "id": "zV1pfdvWkRk",
@@ -740,7 +829,7 @@
             "channel_id": "UCnYNEkkzLPztNPUzGE6UAHQ",
             "thumbnail": "https://i.ytimg.com/vi/zV1pfdvWkRk/maxresdefault.jpg",
             "published_at": "2025-05-24T10:00:48Z",
-            "view_count": 161882,
+            "view_count": 161890,
             "duration_sec": 12
           },
           {
@@ -784,7 +873,7 @@
             "channel_id": "UCMVEEoIBqyZKAUjh7kVVQJQ",
             "thumbnail": "https://i.ytimg.com/vi/30Fr7kwfwyQ/maxresdefault.jpg",
             "published_at": "2025-03-24T09:26:40Z",
-            "view_count": 10907,
+            "view_count": 10905,
             "duration_sec": 29
           },
           {
@@ -835,7 +924,7 @@
             "channel_id": "UC3CELODQnl5pGSWyS3OmMOA",
             "thumbnail": "https://i.ytimg.com/vi/t_iQm3IU9qE/maxresdefault.jpg",
             "published_at": "2023-06-19T10:54:39Z",
-            "view_count": 6909925,
+            "view_count": 6909933,
             "duration_sec": 55
           },
           {
@@ -857,7 +946,7 @@
             "channel_id": "UCFmWS6ExbVnYPYA05JX_LnQ",
             "thumbnail": "https://i.ytimg.com/vi/-MKcbVZES1Q/maxresdefault.jpg",
             "published_at": "2024-12-21T05:13:24Z",
-            "view_count": 6206425,
+            "view_count": 6206429,
             "duration_sec": 57
           },
           {
@@ -868,7 +957,7 @@
             "channel_id": "UCTR8olTLg8LBfTgVwt-6icQ",
             "thumbnail": "https://i.ytimg.com/vi/iwirj5IoXrY/maxresdefault.jpg",
             "published_at": "2025-06-16T10:47:45Z",
-            "view_count": 8436064,
+            "view_count": 8436084,
             "duration_sec": 44
           },
           {
@@ -925,7 +1014,7 @@
             "channel_id": "UC3CELODQnl5pGSWyS3OmMOA",
             "thumbnail": "https://i.ytimg.com/vi/bA3L5uDWR00/maxresdefault.jpg",
             "published_at": "2024-08-08T11:10:55Z",
-            "view_count": 5281477,
+            "view_count": 5281520,
             "duration_sec": 49
           },
           {
@@ -936,7 +1025,7 @@
             "channel_id": "UChdvf2uEGahgQvDyarQBeIA",
             "thumbnail": "https://i.ytimg.com/vi/3VXQp2vmN48/maxresdefault.jpg",
             "published_at": "2025-04-25T08:47:37Z",
-            "view_count": 7661110,
+            "view_count": 7661148,
             "duration_sec": 32
           },
           {
@@ -980,7 +1069,7 @@
             "channel_id": "UCkEWsTetbUuGDg_O1S5UVBg",
             "thumbnail": "https://i.ytimg.com/vi/VlA5UGTgrV8/maxresdefault.jpg",
             "published_at": "2025-01-11T10:57:43Z",
-            "view_count": 1185351,
+            "view_count": 1185359,
             "duration_sec": 27
           },
           {
@@ -1002,7 +1091,7 @@
             "channel_id": "UCk-Y9lv2UGfTfkfNw0j3WPQ",
             "thumbnail": "https://i.ytimg.com/vi/43PHrBkK1vQ/maxresdefault.jpg",
             "published_at": "2024-11-21T09:30:03Z",
-            "view_count": 840080,
+            "view_count": 840038,
             "duration_sec": 51
           }
         ],
@@ -1015,7 +1104,7 @@
             "channel_id": "UC3CELODQnl5pGSWyS3OmMOA",
             "thumbnail": "https://i.ytimg.com/vi/iX_Im1AQUhc/maxresdefault.jpg",
             "published_at": "2025-06-26T10:35:16Z",
-            "view_count": 10884693,
+            "view_count": 10885030,
             "duration_sec": 33
           },
           {
@@ -1037,7 +1126,7 @@
             "channel_id": "UChdvf2uEGahgQvDyarQBeIA",
             "thumbnail": "https://i.ytimg.com/vi/3VXQp2vmN48/maxresdefault.jpg",
             "published_at": "2025-04-25T08:47:37Z",
-            "view_count": 7661110,
+            "view_count": 7661148,
             "duration_sec": 32
           },
           {
@@ -1048,7 +1137,7 @@
             "channel_id": "UChdvf2uEGahgQvDyarQBeIA",
             "thumbnail": "https://i.ytimg.com/vi/OmfuwDMkOZU/maxresdefault.jpg",
             "published_at": "2025-04-17T09:30:15Z",
-            "view_count": 5102528,
+            "view_count": 5102560,
             "duration_sec": 35
           },
           {
@@ -1070,7 +1159,7 @@
             "channel_id": "UC3CELODQnl5pGSWyS3OmMOA",
             "thumbnail": "https://i.ytimg.com/vi/goIvnQOuibE/maxresdefault.jpg",
             "published_at": "2025-06-16T10:08:06Z",
-            "view_count": 3684112,
+            "view_count": 3684135,
             "duration_sec": 37
           },
           {
@@ -1092,7 +1181,7 @@
             "channel_id": "UCX3698_8HuvDv9CPAGldCYQ",
             "thumbnail": "https://i.ytimg.com/vi/QndI86tsnlE/maxresdefault.jpg",
             "published_at": "2025-06-05T14:17:52Z",
-            "view_count": 3661860,
+            "view_count": 3661879,
             "duration_sec": 39
           }
         ],
@@ -1105,7 +1194,7 @@
             "channel_id": "UC3CELODQnl5pGSWyS3OmMOA",
             "thumbnail": "https://i.ytimg.com/vi/bA3L5uDWR00/maxresdefault.jpg",
             "published_at": "2024-08-08T11:10:55Z",
-            "view_count": 5281477,
+            "view_count": 5281520,
             "duration_sec": 49
           },
           {
@@ -1127,7 +1216,7 @@
             "channel_id": "UCzBbE7x7mPrs56PvCc0errA",
             "thumbnail": "https://i.ytimg.com/vi/9kPSe6Hq7T8/maxresdefault.jpg",
             "published_at": "2023-08-10T13:58:22Z",
-            "view_count": 3361693,
+            "view_count": 3361711,
             "duration_sec": 31
           },
           {
@@ -1138,7 +1227,7 @@
             "channel_id": "UCxUehMOQma_eJzvWK7-OvFQ",
             "thumbnail": "https://i.ytimg.com/vi/hq15TYQUrZA/maxresdefault.jpg",
             "published_at": "2024-04-23T07:45:47Z",
-            "view_count": 1893964,
+            "view_count": 1893965,
             "duration_sec": 33
           },
           {
@@ -1171,7 +1260,7 @@
             "channel_id": "UCkEWsTetbUuGDg_O1S5UVBg",
             "thumbnail": "https://i.ytimg.com/vi/VlA5UGTgrV8/maxresdefault.jpg",
             "published_at": "2025-01-11T10:57:43Z",
-            "view_count": 1185351,
+            "view_count": 1185358,
             "duration_sec": 27
           },
           {
@@ -1217,7 +1306,7 @@
             "channel_id": "UCNr2GowYSvHJiogpFnzO01Q",
             "thumbnail": "https://i.ytimg.com/vi/jw3q06ZoVvk/maxresdefault.jpg",
             "published_at": "2025-07-06T10:55:02Z",
-            "view_count": 205927,
+            "view_count": 205929,
             "duration_sec": 13
           },
           {
@@ -1279,7 +1368,7 @@
             "channel_id": "UCM7lS3kI_xnDCdWndUybZRA",
             "thumbnail": "https://i.ytimg.com/vi/6hs6oblzz5U/maxresdefault.jpg",
             "published_at": "2025-02-12T00:24:48Z",
-            "view_count": 2598733,
+            "view_count": 2598678,
             "duration_sec": 19
           },
           {
@@ -1312,7 +1401,7 @@
             "channel_id": "UCGtY9qyrQqqPlkNqAwccjNQ",
             "thumbnail": "https://i.ytimg.com/vi/8nXwc3jOUE0/maxresdefault.jpg",
             "published_at": "2023-11-17T09:00:12Z",
-            "view_count": 1712907,
+            "view_count": 1713093,
             "duration_sec": 60
           },
           {
@@ -1323,7 +1412,7 @@
             "channel_id": "UCee0BeImr58yy51zWCBQdaA",
             "thumbnail": "https://i.ytimg.com/vi/fvPcVUHYroo/maxresdefault.jpg",
             "published_at": "2025-05-18T11:01:00Z",
-            "view_count": 2556790,
+            "view_count": 2556828,
             "duration_sec": 20
           },
           {
@@ -1334,7 +1423,7 @@
             "channel_id": "UCQQIP6ObL4Yjc-k1sJXXOZQ",
             "thumbnail": "https://i.ytimg.com/vi/UFVCoOBXDSk/maxresdefault.jpg",
             "published_at": "2025-08-17T10:07:43Z",
-            "view_count": 3112651,
+            "view_count": 3112575,
             "duration_sec": 28
           },
           {
@@ -1362,92 +1451,92 @@
         ],
         "자동차 삶의 질 상승": [
           {
-            "id": "DhUHl7d__HM",
-            "url": "https://www.youtube.com/shorts/DhUHl7d__HM",
-            "title": "🚜삶의 질 수직 상승템! 안 쓰면 후회! 자동차 발 매트 TPE 카매트 풀세트",
-            "channel": "하루한살림",
-            "channel_id": "UC97lpLyGTrY0xjG2dD5Qe4g",
-            "thumbnail": "https://i.ytimg.com/vi/DhUHl7d__HM/maxresdefault.jpg",
-            "published_at": "2025-08-15T16:30:09Z",
-            "view_count": 28231,
-            "duration_sec": 16
+            "id": "fVAD0tnlnwQ",
+            "url": "https://www.youtube.com/shorts/fVAD0tnlnwQ",
+            "title": "삶의질 올려주는 차량꿀템 7가지",
+            "channel": "리뷰하는 리서방",
+            "channel_id": "UC_k7rzJqykO6TnhBXbTPSiw",
+            "thumbnail": "https://i.ytimg.com/vi/fVAD0tnlnwQ/maxresdefault.jpg",
+            "published_at": "2025-02-14T09:37:35Z",
+            "view_count": 3867110,
+            "duration_sec": 52
           },
           {
-            "id": "IYJCvOiA9cE",
-            "url": "https://www.youtube.com/shorts/IYJCvOiA9cE",
-            "title": "삶의 질 수직상승하는 자동차용품 #자동차 #삶의질 #키플",
-            "channel": "키플",
-            "channel_id": "UCTfB9NaDkJ27ROWKlZUFkxg",
-            "thumbnail": "https://i.ytimg.com/vi/IYJCvOiA9cE/maxresdefault.jpg",
-            "published_at": "2024-08-06T04:21:48Z",
-            "view_count": 3669,
-            "duration_sec": 48
+            "id": "hq15TYQUrZA",
+            "url": "https://www.youtube.com/shorts/hq15TYQUrZA",
+            "title": "무인양품 추천템 3가지 | MUJI 꿀템 #무인양품 #삶의질상승템",
+            "channel": "매디하우스",
+            "channel_id": "UCxUehMOQma_eJzvWK7-OvFQ",
+            "thumbnail": "https://i.ytimg.com/vi/hq15TYQUrZA/maxresdefault.jpg",
+            "published_at": "2024-04-23T07:45:47Z",
+            "view_count": 1893977,
+            "duration_sec": 33
           },
           {
-            "id": "4jRKqFM2nTY",
-            "url": "https://www.youtube.com/shorts/4jRKqFM2nTY",
-            "title": "기아 자동차 타면 보세요 삶의질 상승",
-            "channel": "키플",
-            "channel_id": "UCTfB9NaDkJ27ROWKlZUFkxg",
-            "thumbnail": "https://i.ytimg.com/vi/4jRKqFM2nTY/maxresdefault.jpg",
-            "published_at": "2024-01-09T01:43:30Z",
-            "view_count": 3288,
-            "duration_sec": 51
+            "id": "UFVCoOBXDSk",
+            "url": "https://www.youtube.com/shorts/UFVCoOBXDSk",
+            "title": "운전 경력 1년 이상만 보세요 차량꿀템 BEST 3",
+            "channel": "정앤수",
+            "channel_id": "UCQQIP6ObL4Yjc-k1sJXXOZQ",
+            "thumbnail": "https://i.ytimg.com/vi/UFVCoOBXDSk/maxresdefault.jpg",
+            "published_at": "2025-08-17T10:07:43Z",
+            "view_count": 3112575,
+            "duration_sec": 28
           },
           {
-            "id": "Lkzjmin7J-8",
-            "url": "https://www.youtube.com/shorts/Lkzjmin7J-8",
-            "title": "삶의 질 상승 육아템😽 싸이벡스 코야 #휴대용유모차",
-            "channel": "싸이벡스 코리아",
-            "channel_id": "UCTDbVKPy4xwkcODjLPDaHdQ",
-            "thumbnail": "https://i.ytimg.com/vi/Lkzjmin7J-8/maxresdefault.jpg",
-            "published_at": "2024-12-10T01:39:06Z",
-            "view_count": 4830,
-            "duration_sec": 15
+            "id": "fWRUXFY3SL8",
+            "url": "https://www.youtube.com/shorts/fWRUXFY3SL8",
+            "title": "비싼 도색 거부하고, 만화책 찢고 나온 차",
+            "channel": "Homterior Pick",
+            "channel_id": "UCICENAWQCaiMEkabXLr5Uhw",
+            "thumbnail": "https://i.ytimg.com/vi/fWRUXFY3SL8/maxresdefault.jpg",
+            "published_at": "2026-03-01T18:12:05Z",
+            "view_count": 1694202,
+            "duration_sec": 25
           },
           {
-            "id": "dvB3PWFjiTE",
-            "url": "https://www.youtube.com/shorts/dvB3PWFjiTE",
-            "title": "삶의 질 상승 차량용품 TOP 키플",
-            "channel": "키플",
-            "channel_id": "UCTfB9NaDkJ27ROWKlZUFkxg",
-            "thumbnail": "https://i.ytimg.com/vi/dvB3PWFjiTE/maxresdefault.jpg",
-            "published_at": "2023-12-19T01:10:38Z",
-            "view_count": 5649,
+            "id": "M2Xo7gl7lCw",
+            "url": "https://www.youtube.com/shorts/M2Xo7gl7lCw",
+            "title": "운전할 때 이거 알고 계셨나요?",
+            "channel": "꿀갤러리",
+            "channel_id": "UCaizvXIpkYjArIxurP9ylNA",
+            "thumbnail": "https://i.ytimg.com/vi/M2Xo7gl7lCw/maxresdefault.jpg",
+            "published_at": "2024-10-23T05:52:36Z",
+            "view_count": 158348,
             "duration_sec": 60
           },
           {
-            "id": "Dn8_bFonRLg",
-            "url": "https://www.youtube.com/shorts/Dn8_bFonRLg",
-            "title": "끝내주는 자동차튜닝  #꿀템 #자동차 #삶의질상승템",
-            "channel": "키플",
-            "channel_id": "UCTfB9NaDkJ27ROWKlZUFkxg",
-            "thumbnail": "https://i.ytimg.com/vi/Dn8_bFonRLg/maxresdefault.jpg",
-            "published_at": "2024-12-27T08:30:04Z",
-            "view_count": 2774,
-            "duration_sec": 45
+            "id": "Vru-jEFqu4w",
+            "url": "https://www.youtube.com/shorts/Vru-jEFqu4w",
+            "title": "전직 정비사도 놀란 돈 안 드는 자동차 관리 꿀팁  !!!    #자동차관리 #정비꿀팁 #삶의질상승 #초보운전 #내돈내산 #꿀템추천 #유용한정보 #자동차스타그램 #자동차수리",
+            "channel": "버즈팡(BuzzPang)",
+            "channel_id": "UCasyPdXba-fBfm2aY_EZfuw",
+            "thumbnail": "https://i.ytimg.com/vi/Vru-jEFqu4w/maxresdefault.jpg",
+            "published_at": "2026-01-23T05:50:00Z",
+            "view_count": 100564,
+            "duration_sec": 31
           },
           {
-            "id": "OK2R3S8XjBw",
-            "url": "https://www.youtube.com/shorts/OK2R3S8XjBw",
-            "title": "이거 설치하고 삶의 질 200% 상승했습니다 #테슬라 #차쟁이 #카스타그램 #꿀템 #차박",
-            "channel": "만물상",
-            "channel_id": "UCljVtEnWXe4wvnKzWL4pnng",
-            "thumbnail": "https://i.ytimg.com/vi/OK2R3S8XjBw/maxresdefault.jpg",
-            "published_at": "2026-04-25T10:36:00Z",
-            "view_count": 4611,
-            "duration_sec": 14
+            "id": "McGeecRjCh0",
+            "url": "https://www.youtube.com/shorts/McGeecRjCh0",
+            "title": "내부세차 쉬워지는 비쎌 습식청소기 #스팀청소 #물걸레청소기 #카페트 #소파청소 #침구청소 #살림템 #생활꿀템 #스팀청소기 #카펫 #쇼파세탁 #삶의질상승템 #청소기추천 #쿠팡추천",
+            "channel": "버니의집",
+            "channel_id": "UCr-eqQLouqEhhueLukC82SA",
+            "thumbnail": "https://i.ytimg.com/vi/McGeecRjCh0/maxresdefault.jpg",
+            "published_at": "2025-10-26T02:15:31Z",
+            "view_count": 65923,
+            "duration_sec": 16
           },
           {
-            "id": "tV-lDE0P9WI",
-            "url": "https://www.youtube.com/shorts/tV-lDE0P9WI",
-            "title": "아니 이 가격 실화? 삶의질 수직 상승!! #선물 #차량용품 #자동차 #원격 #스마트키",
-            "channel": "핫템로드",
-            "channel_id": "UC4BVYP7eIdM9gogpb_92mAQ",
-            "thumbnail": "https://i.ytimg.com/vi/tV-lDE0P9WI/maxresdefault.jpg",
-            "published_at": "2026-01-20T05:55:41Z",
-            "view_count": 4449,
-            "duration_sec": 25
+            "id": "hnxlDwv6Szk",
+            "url": "https://www.youtube.com/shorts/hnxlDwv6Szk",
+            "title": "단돈 만원과 딸깍 한 번으로 세상 편해지는 꿀템 #아이오닉5 #전기차",
+            "channel": "팜군 PUM_GUN",
+            "channel_id": "UCkoQ9GNQeAMveAXaqvthsPA",
+            "thumbnail": "https://i.ytimg.com/vi/hnxlDwv6Szk/maxresdefault.jpg",
+            "published_at": "2025-08-01T04:22:44Z",
+            "view_count": 46261,
+            "duration_sec": 31
           }
         ],
         "운전 필수템": [
@@ -1459,7 +1548,7 @@
             "channel_id": "UCLBWR5uOQECHHa-5JB0Uosg",
             "thumbnail": "https://i.ytimg.com/vi/a1c-9ytP-ck/maxresdefault.jpg",
             "published_at": "2025-06-25T14:44:08Z",
-            "view_count": 3714857,
+            "view_count": 3714859,
             "duration_sec": 43
           },
           {
@@ -1470,7 +1559,7 @@
             "channel_id": "UC0BlsjV-Xmpo90sBjrYgVPQ",
             "thumbnail": "https://i.ytimg.com/vi/gRLhzidnhlc/maxresdefault.jpg",
             "published_at": "2023-11-09T23:00:32Z",
-            "view_count": 2739824,
+            "view_count": 2739836,
             "duration_sec": 39
           },
           {
@@ -1503,7 +1592,7 @@
             "channel_id": "UCQQIP6ObL4Yjc-k1sJXXOZQ",
             "thumbnail": "https://i.ytimg.com/vi/UFVCoOBXDSk/maxresdefault.jpg",
             "published_at": "2025-08-17T10:07:43Z",
-            "view_count": 3112651,
+            "view_count": 3112575,
             "duration_sec": 28
           },
           {
@@ -1525,7 +1614,7 @@
             "channel_id": "UCq7Xm-vskEjAAo3Z0RGjp9Q",
             "thumbnail": "https://i.ytimg.com/vi/UllOMJelaho/maxresdefault.jpg",
             "published_at": "2025-03-17T14:14:07Z",
-            "view_count": 835887,
+            "view_count": 835888,
             "duration_sec": 25
           },
           {
@@ -1560,7 +1649,7 @@
             "channel_id": "UC_k7rzJqykO6TnhBXbTPSiw",
             "thumbnail": "https://i.ytimg.com/vi/fVAD0tnlnwQ/maxresdefault.jpg",
             "published_at": "2025-02-14T09:37:35Z",
-            "view_count": 3867110,
+            "view_count": 3867107,
             "duration_sec": 52
           },
           {
@@ -1571,7 +1660,7 @@
             "channel_id": "UCLBWR5uOQECHHa-5JB0Uosg",
             "thumbnail": "https://i.ytimg.com/vi/a1c-9ytP-ck/maxresdefault.jpg",
             "published_at": "2025-06-25T14:44:08Z",
-            "view_count": 3714857,
+            "view_count": 3714859,
             "duration_sec": 43
           },
           {
@@ -1593,7 +1682,7 @@
             "channel_id": "UCM7lS3kI_xnDCdWndUybZRA",
             "thumbnail": "https://i.ytimg.com/vi/oqWwbEjrGlU/maxresdefault.jpg",
             "published_at": "2025-03-25T00:48:30Z",
-            "view_count": 3094083,
+            "view_count": 3094063,
             "duration_sec": 20
           },
           {
@@ -1604,7 +1693,7 @@
             "channel_id": "UC9OGC-I-pI-W9AphDPyU1nQ",
             "thumbnail": "https://i.ytimg.com/vi/9OGu7PZ-KkQ/maxresdefault.jpg",
             "published_at": "2025-07-28T12:00:27Z",
-            "view_count": 2425506,
+            "view_count": 2425512,
             "duration_sec": 45
           },
           {
@@ -1615,7 +1704,7 @@
             "channel_id": "UCQQIP6ObL4Yjc-k1sJXXOZQ",
             "thumbnail": "https://i.ytimg.com/vi/UFVCoOBXDSk/maxresdefault.jpg",
             "published_at": "2025-08-17T10:07:43Z",
-            "view_count": 3112651,
+            "view_count": 3112715,
             "duration_sec": 28
           },
           {
@@ -1626,7 +1715,7 @@
             "channel_id": "UCFmWS6ExbVnYPYA05JX_LnQ",
             "thumbnail": "https://i.ytimg.com/vi/GB2FV5rYmGk/maxresdefault.jpg",
             "published_at": "2023-07-29T07:31:33Z",
-            "view_count": 1208342,
+            "view_count": 1208369,
             "duration_sec": 60
           }
         ],
@@ -1657,7 +1746,7 @@
             "channel_id": "UC08nWdgrvCNiWpBF6G0BhsA",
             "thumbnail": "https://i.ytimg.com/vi/oJHKMPU87Rg/hqdefault.jpg",
             "published_at": "2022-07-10T08:00:27Z",
-            "view_count": 6478640,
+            "view_count": 6478642,
             "duration_sec": 36
           },
           {
@@ -1679,7 +1768,7 @@
             "channel_id": "UC2bN1vE7esxNXhBSYIHzQwg",
             "thumbnail": "https://i.ytimg.com/vi/xX87g5SGWbo/maxresdefault.jpg",
             "published_at": "2024-12-21T10:30:22Z",
-            "view_count": 1314522,
+            "view_count": 1314506,
             "duration_sec": 48
           },
           {
@@ -1690,7 +1779,7 @@
             "channel_id": "UCMvUJmiUAPWfYfRVn3yX49g",
             "thumbnail": "https://i.ytimg.com/vi/Hz52CXRbQLM/maxresdefault.jpg",
             "published_at": "2025-08-18T15:11:22Z",
-            "view_count": 2087287,
+            "view_count": 2087265,
             "duration_sec": 23
           },
           {
@@ -1712,7 +1801,7 @@
             "channel_id": "UCk-Y9lv2UGfTfkfNw0j3WPQ",
             "thumbnail": "https://i.ytimg.com/vi/43PHrBkK1vQ/maxresdefault.jpg",
             "published_at": "2024-11-21T09:30:03Z",
-            "view_count": 840080,
+            "view_count": 840038,
             "duration_sec": 51
           },
           {
@@ -1734,7 +1823,7 @@
             "channel_id": "UCF8s94lu9ijf1yHis5jFpgw",
             "thumbnail": "https://i.ytimg.com/vi/n-SnnDrobLE/maxresdefault.jpg",
             "published_at": "2025-07-15T22:00:55Z",
-            "view_count": 785255,
+            "view_count": 785253,
             "duration_sec": 41
           }
         ],
@@ -1758,7 +1847,7 @@
             "channel_id": "UCw_hMpIIuv_NPs-ZZXTsv_Q",
             "thumbnail": "https://i.ytimg.com/vi/PlJd1FLvLuI/maxresdefault.jpg",
             "published_at": "2025-11-15T05:55:30Z",
-            "view_count": 800463,
+            "view_count": 800464,
             "duration_sec": 50
           },
           {
@@ -1802,7 +1891,7 @@
             "channel_id": "UC5xK2Xdrud3-KGjkS1Igumg",
             "thumbnail": "https://i.ytimg.com/vi/fzVEx_DBxgU/maxresdefault.jpg",
             "published_at": "2024-04-13T07:14:30Z",
-            "view_count": 52701,
+            "view_count": 52705,
             "duration_sec": 57
           },
           {
@@ -1837,7 +1926,7 @@
             "channel_id": "UCb3RcfZTXh4_ZMZy-sLaLPw",
             "thumbnail": "https://i.ytimg.com/vi/zB6av0AOOYs/maxresdefault.jpg",
             "published_at": "2024-12-29T11:30:38Z",
-            "view_count": 684091,
+            "view_count": 684087,
             "duration_sec": 57
           },
           {
@@ -1870,7 +1959,7 @@
             "channel_id": "UC01S6ADjUrAjR-kraUnpM3w",
             "thumbnail": "https://i.ytimg.com/vi/601D1CNiciw/maxresdefault.jpg",
             "published_at": "2025-09-27T02:00:06Z",
-            "view_count": 45572,
+            "view_count": 45535,
             "duration_sec": 51
           },
           {
@@ -1881,7 +1970,7 @@
             "channel_id": "UC0R4eTVtz0QXyfPJ8SYMaZQ",
             "thumbnail": "https://i.ytimg.com/vi/IsQkGUjDgyc/maxresdefault.jpg",
             "published_at": "2026-05-23T12:00:19Z",
-            "view_count": 41265,
+            "view_count": 41260,
             "duration_sec": 37
           },
           {
@@ -1927,7 +2016,7 @@
             "channel_id": "UC08nWdgrvCNiWpBF6G0BhsA",
             "thumbnail": "https://i.ytimg.com/vi/oJHKMPU87Rg/hqdefault.jpg",
             "published_at": "2022-07-10T08:00:27Z",
-            "view_count": 6478646,
+            "view_count": 6478642,
             "duration_sec": 36
           },
           {
@@ -1949,7 +2038,7 @@
             "channel_id": "UClRuQzScjzPwukrMIAPKM2w",
             "thumbnail": "https://i.ytimg.com/vi/8UiyMiBK5WM/hqdefault.jpg",
             "published_at": "2022-09-09T08:17:08Z",
-            "view_count": 158888,
+            "view_count": 158885,
             "duration_sec": 46
           },
           {
@@ -1960,7 +2049,7 @@
             "channel_id": "UCHGKI0-aSOFYxYiUm3soeYA",
             "thumbnail": "https://i.ytimg.com/vi/eVJa9o3r5nI/maxresdefault.jpg",
             "published_at": "2025-04-16T08:29:09Z",
-            "view_count": 112030,
+            "view_count": 112027,
             "duration_sec": 31
           },
           {
@@ -1971,7 +2060,7 @@
             "channel_id": "UCcOtgBsUzEqHKiHfOoBKOwg",
             "thumbnail": "https://i.ytimg.com/vi/PL31hJFRbwc/maxresdefault.jpg",
             "published_at": "2025-09-03T09:00:39Z",
-            "view_count": 52677,
+            "view_count": 52682,
             "duration_sec": 33
           },
           {
@@ -1982,7 +2071,7 @@
             "channel_id": "UCm-FSPQFitG-cQ2qKOmXrRg",
             "thumbnail": "https://i.ytimg.com/vi/Cr_V4NSyaN4/maxresdefault.jpg",
             "published_at": "2025-05-04T06:34:40Z",
-            "view_count": 34421,
+            "view_count": 34424,
             "duration_sec": 43
           },
           {
@@ -2006,7 +2095,7 @@
             "channel_id": "UC08nWdgrvCNiWpBF6G0BhsA",
             "thumbnail": "https://i.ytimg.com/vi/oJHKMPU87Rg/hqdefault.jpg",
             "published_at": "2022-07-10T08:00:27Z",
-            "view_count": 6478640,
+            "view_count": 6478642,
             "duration_sec": 36
           },
           {
@@ -2061,7 +2150,7 @@
             "channel_id": "UCvoaqFUsRbiInhmDUfYwyqA",
             "thumbnail": "https://i.ytimg.com/vi/pvJffthBRGg/maxresdefault.jpg",
             "published_at": "2024-08-04T13:12:47Z",
-            "view_count": 1363746,
+            "view_count": 1363716,
             "duration_sec": 46
           },
           {
@@ -2072,7 +2161,7 @@
             "channel_id": "UCxVaWNEWX2OKuQNeXfiwBPA",
             "thumbnail": "https://i.ytimg.com/vi/h3UaZnKyy2g/maxresdefault.jpg",
             "published_at": "2024-11-19T09:00:42Z",
-            "view_count": 1226290,
+            "view_count": 1226292,
             "duration_sec": 57
           },
           {
@@ -2191,7 +2280,7 @@
             "channel_id": "UCc4cLwPVVn7i_lc2VQHDeYg",
             "thumbnail": "https://i.ytimg.com/vi/q6EUobhgrMo/maxresdefault.jpg",
             "published_at": "2023-05-26T08:14:00Z",
-            "view_count": 1824756,
+            "view_count": 1824760,
             "duration_sec": 59
           },
           {
@@ -2246,7 +2335,7 @@
             "channel_id": "UCTSs2gvSKmbJ3sEJPxbsNHQ",
             "thumbnail": "https://i.ytimg.com/vi/YaCWZpnsAr8/maxresdefault.jpg",
             "published_at": "2024-05-28T13:59:27Z",
-            "view_count": 876005,
+            "view_count": 875981,
             "duration_sec": 48
           },
           {
@@ -2314,7 +2403,7 @@
             "channel_id": "UCbd6uVbM2tDvPy2EFm-NuPA",
             "thumbnail": "https://i.ytimg.com/vi/kakXplD7vO8/maxresdefault.jpg",
             "published_at": "2024-10-19T13:00:58Z",
-            "view_count": 11853610,
+            "view_count": 11853613,
             "duration_sec": 60
           },
           {
@@ -2358,7 +2447,7 @@
             "channel_id": "UCM7lS3kI_xnDCdWndUybZRA",
             "thumbnail": "https://i.ytimg.com/vi/oqWwbEjrGlU/maxresdefault.jpg",
             "published_at": "2025-03-25T00:48:30Z",
-            "view_count": 3094083,
+            "view_count": 3094063,
             "duration_sec": 20
           }
         ],
@@ -2382,7 +2471,7 @@
             "channel_id": "UC2JL4Vn_8XK71v9HZCkiQ8g",
             "thumbnail": "https://i.ytimg.com/vi/JSq5FiNZzr4/maxresdefault.jpg",
             "published_at": "2024-05-11T04:14:19Z",
-            "view_count": 3056807,
+            "view_count": 3056802,
             "duration_sec": 60
           },
           {
@@ -2415,7 +2504,7 @@
             "channel_id": "UC2JL4Vn_8XK71v9HZCkiQ8g",
             "thumbnail": "https://i.ytimg.com/vi/0DqFuEJnO0Q/maxresdefault.jpg",
             "published_at": "2024-05-22T14:59:50Z",
-            "view_count": 814036,
+            "view_count": 814068,
             "duration_sec": 60
           },
           {
@@ -2426,7 +2515,7 @@
             "channel_id": "UCvAewWPqooIUgQUsjhTmUVw",
             "thumbnail": "https://i.ytimg.com/vi/ELeGtDvluqI/maxresdefault.jpg",
             "published_at": "2025-02-07T09:00:16Z",
-            "view_count": 613551,
+            "view_count": 613532,
             "duration_sec": 57
           },
           {
@@ -2437,7 +2526,7 @@
             "channel_id": "UCYpcm8DpDsa3Hbqh79TAVzw",
             "thumbnail": "https://i.ytimg.com/vi/Rfn-w1tJ0aQ/maxresdefault.jpg",
             "published_at": "2023-06-16T10:53:00Z",
-            "view_count": 541876,
+            "view_count": 541879,
             "duration_sec": 53
           },
           {
@@ -2461,7 +2550,7 @@
             "channel_id": "UCUtsDsZl-WxkI1WFqlLN55Q",
             "thumbnail": "https://i.ytimg.com/vi/IzgZhqi6esY/maxresdefault.jpg",
             "published_at": "2025-08-28T08:45:02Z",
-            "view_count": 8200792,
+            "view_count": 8200795,
             "duration_sec": 30
           },
           {
@@ -2483,7 +2572,7 @@
             "channel_id": "UC25_kfKc8a1d1oHZYm9KKeA",
             "thumbnail": "https://i.ytimg.com/vi/faNuKtph8yQ/maxresdefault.jpg",
             "published_at": "2023-03-12T13:05:35Z",
-            "view_count": 1186381,
+            "view_count": 1186423,
             "duration_sec": 49
           },
           {
@@ -2505,7 +2594,7 @@
             "channel_id": "UCvoaqFUsRbiInhmDUfYwyqA",
             "thumbnail": "https://i.ytimg.com/vi/snp_ik4Qyng/maxresdefault.jpg",
             "published_at": "2023-08-18T08:00:23Z",
-            "view_count": 270929,
+            "view_count": 270930,
             "duration_sec": 44
           },
           {
@@ -2556,7 +2645,7 @@
             "channel_id": "UC4yRTQLUM1TRvNa5BLp5oWA",
             "thumbnail": "https://i.ytimg.com/vi/uFMg2ROpK4w/maxresdefault.jpg",
             "published_at": "2024-02-26T09:26:17Z",
-            "view_count": 6685516,
+            "view_count": 6685487,
             "duration_sec": 20
           },
           {
@@ -2567,7 +2656,7 @@
             "channel_id": "UCFmWS6ExbVnYPYA05JX_LnQ",
             "thumbnail": "https://i.ytimg.com/vi/-MKcbVZES1Q/maxresdefault.jpg",
             "published_at": "2024-12-21T05:13:24Z",
-            "view_count": 6206425,
+            "view_count": 6206429,
             "duration_sec": 57
           },
           {
@@ -2578,7 +2667,7 @@
             "channel_id": "UCx8uFUihkZnQRU6lVJXs7Dg",
             "thumbnail": "https://i.ytimg.com/vi/QIZJBMJBr7k/maxresdefault.jpg",
             "published_at": "2024-03-28T11:30:11Z",
-            "view_count": 3941672,
+            "view_count": 3941675,
             "duration_sec": 59
           },
           {
@@ -2589,7 +2678,7 @@
             "channel_id": "UC9_nREgk4hpk8RoIJzBffdg",
             "thumbnail": "https://i.ytimg.com/vi/RHVW6lkOUvE/maxresdefault.jpg",
             "published_at": "2024-01-11T15:24:32Z",
-            "view_count": 2219618,
+            "view_count": 2219627,
             "duration_sec": 28
           },
           {
@@ -2600,7 +2689,7 @@
             "channel_id": "UC5TAPUuk8VNhfJiitpPmNFw",
             "thumbnail": "https://i.ytimg.com/vi/pszGYBiV4EQ/maxresdefault.jpg",
             "published_at": "2023-11-24T05:47:32Z",
-            "view_count": 2062490,
+            "view_count": 2062493,
             "duration_sec": 57
           },
           {
@@ -2611,7 +2700,7 @@
             "channel_id": "UC_KBVQUwgmE-RIA9Bb1UxqQ",
             "thumbnail": "https://i.ytimg.com/vi/GsyZegvBXrY/maxresdefault.jpg",
             "published_at": "2023-05-07T12:02:54Z",
-            "view_count": 1776513,
+            "view_count": 1776508,
             "duration_sec": 51
           },
           {
@@ -2646,7 +2735,7 @@
             "channel_id": "UCk-Y9lv2UGfTfkfNw0j3WPQ",
             "thumbnail": "https://i.ytimg.com/vi/QbwYpFJpUCc/maxresdefault.jpg",
             "published_at": "2024-09-25T09:30:12Z",
-            "view_count": 3022699,
+            "view_count": 3022746,
             "duration_sec": 55
           },
           {
@@ -2668,7 +2757,7 @@
             "channel_id": "UCR89iZaBrjes0tINwzWhH4w",
             "thumbnail": "https://i.ytimg.com/vi/RJImrSB8MRQ/maxresdefault.jpg",
             "published_at": "2025-05-08T09:15:02Z",
-            "view_count": 3007002,
+            "view_count": 3007003,
             "duration_sec": 60
           },
           {
@@ -2679,7 +2768,7 @@
             "channel_id": "UC9_nREgk4hpk8RoIJzBffdg",
             "thumbnail": "https://i.ytimg.com/vi/H7mssi8WF8Q/maxresdefault.jpg",
             "published_at": "2023-11-18T14:20:19Z",
-            "view_count": 1437205,
+            "view_count": 1437232,
             "duration_sec": 27
           },
           {
@@ -2701,7 +2790,7 @@
             "channel_id": "UCNVdn_5rMMXd8KklIIPRAnA",
             "thumbnail": "https://i.ytimg.com/vi/yaVl9u-JXHI/maxresdefault.jpg",
             "published_at": "2025-04-14T10:50:00Z",
-            "view_count": 2951483,
+            "view_count": 2951487,
             "duration_sec": 17
           },
           {
@@ -2723,7 +2812,7 @@
             "channel_id": "UCkEWsTetbUuGDg_O1S5UVBg",
             "thumbnail": "https://i.ytimg.com/vi/P4e4KXxusUU/maxresdefault.jpg",
             "published_at": "2024-02-10T02:02:00Z",
-            "view_count": 965070,
+            "view_count": 965068,
             "duration_sec": 24
           }
         ],
@@ -2769,7 +2858,7 @@
             "channel_id": "UCNVdn_5rMMXd8KklIIPRAnA",
             "thumbnail": "https://i.ytimg.com/vi/yaVl9u-JXHI/maxresdefault.jpg",
             "published_at": "2025-04-14T10:50:00Z",
-            "view_count": 2951483,
+            "view_count": 2951487,
             "duration_sec": 17
           },
           {
@@ -2802,7 +2891,7 @@
             "channel_id": "UCK2YrOMgAbsAraGrWyyAvdw",
             "thumbnail": "https://i.ytimg.com/vi/4jWPcb2nIuE/maxresdefault.jpg",
             "published_at": "2025-04-06T09:45:00Z",
-            "view_count": 687772,
+            "view_count": 687773,
             "duration_sec": 39
           },
           {
@@ -2813,7 +2902,7 @@
             "channel_id": "UCk-Y9lv2UGfTfkfNw0j3WPQ",
             "thumbnail": "https://i.ytimg.com/vi/JoXeMEkioaQ/maxresdefault.jpg",
             "published_at": "2025-07-23T09:30:16Z",
-            "view_count": 671384,
+            "view_count": 671397,
             "duration_sec": 53
           }
         ],
@@ -2826,7 +2915,7 @@
             "channel_id": "UCEwu364DqDNfw1F04CduCsA",
             "thumbnail": "https://i.ytimg.com/vi/h2tiPUKz2f0/maxresdefault.jpg",
             "published_at": "2023-09-08T13:08:03Z",
-            "view_count": 3132337,
+            "view_count": 3132333,
             "duration_sec": 58
           },
           {
@@ -2837,7 +2926,7 @@
             "channel_id": "UC3vVTZ9yoBhfBhnCfW5TbxA",
             "thumbnail": "https://i.ytimg.com/vi/A-NnbQAHeJM/maxresdefault.jpg",
             "published_at": "2024-02-15T10:51:22Z",
-            "view_count": 3280015,
+            "view_count": 3279946,
             "duration_sec": 59
           },
           {
@@ -2848,7 +2937,7 @@
             "channel_id": "UCZlTEEKh3ounqVfpf21WMeQ",
             "thumbnail": "https://i.ytimg.com/vi/d7kGLYRYbNE/maxresdefault.jpg",
             "published_at": "2023-11-15T12:12:16Z",
-            "view_count": 2890508,
+            "view_count": 2890565,
             "duration_sec": 60
           },
           {
@@ -2870,7 +2959,7 @@
             "channel_id": "UCSaEL-LEI41oepK5V5EXb2Q",
             "thumbnail": "https://i.ytimg.com/vi/4qq92IDY90Y/maxresdefault.jpg",
             "published_at": "2024-07-17T12:34:30Z",
-            "view_count": 1890554,
+            "view_count": 1890556,
             "duration_sec": 55
           },
           {
@@ -2881,7 +2970,7 @@
             "channel_id": "UCgW1Ic2K50WmrMyOLwmBcfw",
             "thumbnail": "https://i.ytimg.com/vi/4fikUcwCikI/maxresdefault.jpg",
             "published_at": "2023-10-04T13:30:21Z",
-            "view_count": 1659222,
+            "view_count": 1659236,
             "duration_sec": 60
           },
           {
@@ -2892,7 +2981,7 @@
             "channel_id": "UC3vVTZ9yoBhfBhnCfW5TbxA",
             "thumbnail": "https://i.ytimg.com/vi/ez11QDdIgCY/maxresdefault.jpg",
             "published_at": "2024-03-09T09:52:14Z",
-            "view_count": 1690167,
+            "view_count": 1690169,
             "duration_sec": 58
           },
           {
@@ -2920,6 +3009,17 @@
             "duration_sec": 41
           },
           {
+            "id": "NlGW3Lg0ydM",
+            "url": "https://www.youtube.com/shorts/NlGW3Lg0ydM",
+            "title": "80만원대 미친 가성비 벤츠 뽑았습니다.",
+            "channel": "Homterior Pick",
+            "channel_id": "UCICENAWQCaiMEkabXLr5Uhw",
+            "thumbnail": "https://i.ytimg.com/vi/NlGW3Lg0ydM/maxresdefault.jpg",
+            "published_at": "2026-05-03T20:34:45Z",
+            "view_count": 593850,
+            "duration_sec": 23
+          },
+          {
             "id": "vuXYVEI3JoU",
             "url": "https://www.youtube.com/shorts/vuXYVEI3JoU",
             "title": "삶의 질 상승템, 테무 꿀템, 자취템 추천🛍️ #temu #꿀팁 #가성비템",
@@ -2938,8 +3038,19 @@
             "channel_id": "UCVLnh_ablnFKTcz0U9RhA-A",
             "thumbnail": "https://i.ytimg.com/vi/kH9iTgve2HA/maxresdefault.jpg",
             "published_at": "2024-03-31T10:00:38Z",
-            "view_count": 38872,
+            "view_count": 38871,
             "duration_sec": 57
+          },
+          {
+            "id": "5gFfayrDKFs",
+            "url": "https://www.youtube.com/shorts/5gFfayrDKFs",
+            "title": "진짜 얼음인줄..고밀도 패널로 만든 '나만의 프라이빗 링크장' 리뷰 #스케이팅",
+            "channel": "시각의 오류 Eye Error",
+            "channel_id": "UCSR2G2Egcjpy9mOSxYjQDnA",
+            "thumbnail": "https://i.ytimg.com/vi/5gFfayrDKFs/maxresdefault.jpg",
+            "published_at": "2026-03-01T06:00:09Z",
+            "view_count": 18592,
+            "duration_sec": 23
           },
           {
             "id": "UFks10VFkVM",
@@ -2972,28 +3083,6 @@
             "thumbnail": "https://i.ytimg.com/vi/TnuFVpznDwA/maxresdefault.jpg",
             "published_at": "2024-09-09T01:13:44Z",
             "view_count": 12798,
-            "duration_sec": 16
-          },
-          {
-            "id": "iKz6sNZ67Yc",
-            "url": "https://www.youtube.com/shorts/iKz6sNZ67Yc",
-            "title": "달리기 엄청난 효과 | 삶의 질 상승 | 복근도 매일 유지 #다이어트브이로그 #달리기",
-            "channel": "지니핏",
-            "channel_id": "UCuo3uD6k-M2yPcCa6BnwDhA",
-            "thumbnail": "https://i.ytimg.com/vi/iKz6sNZ67Yc/maxresdefault.jpg",
-            "published_at": "2024-04-12T09:00:38Z",
-            "view_count": 6030,
-            "duration_sec": 42
-          },
-          {
-            "id": "g1XRjzntImk",
-            "url": "https://www.youtube.com/shorts/g1XRjzntImk",
-            "title": "기능성트레이닝, 밸런스운동하고 기록상승! 삶의질 향상! #shorts #기능성트레이닝 #밸런스운동",
-            "channel": "트레이닝연구소",
-            "channel_id": "UCDXT4LqBBkZzBrDx-O70NiA",
-            "thumbnail": "https://i.ytimg.com/vi/g1XRjzntImk/maxresdefault.jpg",
-            "published_at": "2021-11-11T09:00:15Z",
-            "view_count": 5448,
             "duration_sec": 16
           }
         ]
@@ -3033,7 +3122,7 @@
             "channel_id": "UCEwu364DqDNfw1F04CduCsA",
             "thumbnail": "https://i.ytimg.com/vi/h2tiPUKz2f0/maxresdefault.jpg",
             "published_at": "2023-09-08T13:08:03Z",
-            "view_count": 3132337,
+            "view_count": 3132333,
             "duration_sec": 58
           },
           {
@@ -3044,7 +3133,7 @@
             "channel_id": "UC3vVTZ9yoBhfBhnCfW5TbxA",
             "thumbnail": "https://i.ytimg.com/vi/A-NnbQAHeJM/maxresdefault.jpg",
             "published_at": "2024-02-15T10:51:22Z",
-            "view_count": 3280015,
+            "view_count": 3279946,
             "duration_sec": 59
           },
           {
@@ -3066,7 +3155,7 @@
             "channel_id": "UCZlTEEKh3ounqVfpf21WMeQ",
             "thumbnail": "https://i.ytimg.com/vi/d7kGLYRYbNE/maxresdefault.jpg",
             "published_at": "2023-11-15T12:12:16Z",
-            "view_count": 2890508,
+            "view_count": 2890565,
             "duration_sec": 60
           },
           {
@@ -3112,7 +3201,7 @@
             "channel_id": "UCbd6uVbM2tDvPy2EFm-NuPA",
             "thumbnail": "https://i.ytimg.com/vi/kakXplD7vO8/maxresdefault.jpg",
             "published_at": "2024-10-19T13:00:58Z",
-            "view_count": 11853610,
+            "view_count": 11853613,
             "duration_sec": 60
           },
           {
@@ -3134,7 +3223,7 @@
             "channel_id": "UCXP9gf8tDnLG5r-d0Licl-g",
             "thumbnail": "https://i.ytimg.com/vi/wQijMWhQguw/maxresdefault.jpg",
             "published_at": "2025-09-14T08:20:24Z",
-            "view_count": 4121850,
+            "view_count": 4121837,
             "duration_sec": 54
           },
           {
@@ -3145,7 +3234,7 @@
             "channel_id": "UCOU8XYXbXE6oyboOZLV_w5g",
             "thumbnail": "https://i.ytimg.com/vi/1Gt-boPV-Zc/maxresdefault.jpg",
             "published_at": "2024-03-30T08:13:51Z",
-            "view_count": 2101139,
+            "view_count": 2101100,
             "duration_sec": 56
           },
           {
@@ -3156,7 +3245,7 @@
             "channel_id": "UC3CELODQnl5pGSWyS3OmMOA",
             "thumbnail": "https://i.ytimg.com/vi/ArnnChql5YQ/maxresdefault.jpg",
             "published_at": "2025-06-28T02:05:55Z",
-            "view_count": 3853843,
+            "view_count": 3853855,
             "duration_sec": 34
           },
           {
@@ -3246,7 +3335,7 @@
             "channel_id": "UCXP9gf8tDnLG5r-d0Licl-g",
             "thumbnail": "https://i.ytimg.com/vi/e5jj_xjxxpE/maxresdefault.jpg",
             "published_at": "2025-08-12T12:27:35Z",
-            "view_count": 2577484,
+            "view_count": 2577492,
             "duration_sec": 58
           },
           {
@@ -3257,7 +3346,7 @@
             "channel_id": "UCXP9gf8tDnLG5r-d0Licl-g",
             "thumbnail": "https://i.ytimg.com/vi/knq2I3UpYX8/maxresdefault.jpg",
             "published_at": "2025-03-30T09:03:14Z",
-            "view_count": 2665336,
+            "view_count": 2665308,
             "duration_sec": 56
           },
           {
@@ -3268,7 +3357,7 @@
             "channel_id": "UCjJF4FoKw2o5b03UIS2OaJA",
             "thumbnail": "https://i.ytimg.com/vi/GtRUeFsKXdQ/maxresdefault.jpg",
             "published_at": "2025-07-22T08:29:15Z",
-            "view_count": 2509957,
+            "view_count": 2509962,
             "duration_sec": 46
           }
         ],
@@ -3281,7 +3370,7 @@
             "channel_id": "UClrOEuBPOU5Gg60dJ_49M-g",
             "thumbnail": "https://i.ytimg.com/vi/YDDVKl3J_ls/maxresdefault.jpg",
             "published_at": "2024-09-28T01:00:27Z",
-            "view_count": 1300271,
+            "view_count": 1300272,
             "duration_sec": 51
           },
           {
@@ -3338,7 +3427,7 @@
             "channel_id": "UCXP9gf8tDnLG5r-d0Licl-g",
             "thumbnail": "https://i.ytimg.com/vi/e5jj_xjxxpE/maxresdefault.jpg",
             "published_at": "2025-08-12T12:27:35Z",
-            "view_count": 2577484,
+            "view_count": 2577492,
             "duration_sec": 58
           },
           {
